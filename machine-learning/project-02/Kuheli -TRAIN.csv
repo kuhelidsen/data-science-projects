@@ -1,0 +1,1000 @@
+ID,gender,Management,USAcitizen,Married,MonthsInUnion,ContinuingEd,FeatureA,Connectivity,FeatureC,FeatureD,FeatureE,FeatureF,FeatureG,FeatureB,DuesFrequency,PaperlessBilling,PaymentMethod,MonthlyDues,TotalDues,LeftUnion
+Kuheli 1-17184,Female,0,Yes,Yes,62,No,Maryville,DSL,Yes,Yes,No,Yes,Yes,No,Two year,No,Bank transfer (automatic),49,3009,No
+Kuheli 2-17632,Female,1,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70,70,Yes
+Kuheli 3-18252,Female,0,No,No,72,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),116,8014,No
+Kuheli 4-15813,Female,0,No,No,1,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Electronic check,21,21,No
+Kuheli 5-18925,Male,0,No,No,7,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),98,713,Yes
+Kuheli 6-15019,Female,0,Yes,Yes,56,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Mailed check,24,1386,No
+Kuheli 7-17008,Male,0,No,No,10,No,Maryville,DSL,No,No,No,No,No,Yes,Month-to-month,Yes,Mailed check,34,298,Yes
+Kuheli 8-15547,Male,1,No,No,45,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),94,4200,No
+Kuheli 9-15475,Male,1,Yes,No,10,Yes,No,Fiber optic,Yes,No,No,No,No,No,Month-to-month,No,Electronic check,75,720,No
+Kuheli 10-16870,Male,0,No,Yes,5,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Credit card (automatic),20,122,No
+Kuheli 11-15711,Female,1,Yes,No,66,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,Yes,One year,Yes,Credit card (automatic),106,6975,Yes
+Kuheli 12-15418,Female,0,Yes,No,71,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),19,1372,No
+Kuheli 13-16671,Male,0,Yes,No,66,Yes,Yes,Fiber optic,No,Yes,Yes,No,No,Yes,One year,No,Electronic check,95,6273,No
+Kuheli 14-19603,Female,0,No,No,66,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),90,5966,No
+Kuheli 15-17295,Female,0,No,No,1,Yes,Yes,DSL,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,50,50,Yes
+Kuheli 16-15065,Female,0,No,Yes,4,No,Maryville,DSL,Yes,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Mailed check,57,224,No
+Kuheli 17-18286,Female,0,No,No,29,Yes,Yes,DSL,No,Yes,No,No,No,No,One year,Yes,Electronic check,55,1620,No
+Kuheli 18-16839,Male,1,No,No,3,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,95,336,No
+Kuheli 19-18086,Male,0,Yes,Yes,44,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,Yes,Bank transfer (automatic),21,865,No
+Kuheli 20-18944,Male,0,Yes,No,40,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),97,3707,Yes
+Kuheli 21-16637,Female,1,No,No,64,Yes,Yes,DSL,No,Yes,Yes,Yes,No,Yes,Month-to-month,No,Credit card (automatic),75,4869,No
+Kuheli 22-15572,Female,0,No,Yes,16,Yes,Yes,Fiber optic,No,No,No,Yes,No,No,One year,Yes,Credit card (automatic),80,1264,No
+Kuheli 23-19289,Male,0,Yes,Yes,29,Yes,Yes,DSL,No,Yes,Yes,No,Yes,Yes,Month-to-month,No,Credit card (automatic),80,2212,No
+Kuheli 24-16881,Female,1,Yes,Yes,70,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,One year,Yes,Electronic check,108,7476,No
+Kuheli 25-16937,Male,1,No,No,23,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,106,2484,Yes
+Kuheli 26-16092,Female,0,Yes,No,1,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,No,Electronic check,79,79,Yes
+Kuheli 27-17222,Male,1,Yes,No,16,Yes,No,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Credit card (automatic),74,1178,Yes
+Kuheli 28-18361,Male,0,No,No,66,No,Maryville,DSL,No,No,No,Yes,No,No,One year,No,Credit card (automatic),29,1983,No
+Kuheli 29-15414,Male,1,No,No,69,Yes,Yes,DSL,Yes,No,Yes,Yes,No,Yes,Two year,No,Credit card (automatic),74,5031,No
+Kuheli 30-15656,Female,1,No,No,52,Yes,Yes,DSL,Yes,No,Yes,No,No,No,Two year,No,Bank transfer (automatic),60,3103,No
+Kuheli 31-17296,Male,0,No,No,1,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Electronic check,44,44,No
+Kuheli 32-15584,Female,0,No,Yes,21,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,21,452,No
+Kuheli 33-15163,Male,0,Yes,No,65,Yes,Yes,Fiber optic,Yes,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,104,6813,No
+Kuheli 34-15914,Female,0,No,No,1,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,No,Electronic check,78,78,Yes
+Kuheli 35-16757,Male,0,No,No,1,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,20,20,Yes
+Kuheli 36-15250,Male,0,No,No,22,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Credit card (automatic),20,467,No
+Kuheli 37-15762,Female,0,No,No,1,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Credit card (automatic),20,20,No
+Kuheli 38-19072,Female,1,No,No,3,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,79,205,Yes
+Kuheli 39-16166,Female,0,Yes,No,51,Yes,Yes,DSL,No,Yes,No,Yes,Yes,Yes,One year,Yes,Credit card (automatic),79,3951,No
+Kuheli 40-19118,Male,0,No,No,10,Yes,No,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,110,1043,Yes
+Kuheli 41-16624,Female,1,No,No,2,Yes,No,DSL,Yes,Yes,No,No,No,No,Month-to-month,No,Mailed check,55,104,Yes
+Kuheli 42-17826,Female,0,No,No,1,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Credit card (automatic),44,44,No
+Kuheli 43-19630,Male,0,Yes,No,71,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,One year,Yes,Credit card (automatic),99,6963,No
+Kuheli 44-18298,Male,0,No,No,47,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Bank transfer (automatic),20,943,No
+Kuheli 45-19114,Female,0,Yes,Yes,49,No,Maryville,DSL,Yes,No,No,Yes,No,No,One year,Yes,Credit card (automatic),36,1782,No
+Kuheli 46-19021,Female,0,No,No,11,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Electronic check,75,889,No
+Kuheli 47-18796,Male,0,Yes,No,53,Yes,No,Fiber optic,No,Yes,No,No,Yes,Yes,One year,Yes,Bank transfer (automatic),94,4868,Yes
+Kuheli 48-16294,Female,0,Yes,Yes,68,Yes,Yes,DSL,Yes,Yes,Yes,No,Yes,No,One year,Yes,Credit card (automatic),73,5163,No
+Kuheli 49-17402,Female,0,Yes,Yes,21,Yes,No,DSL,No,Yes,No,No,Yes,No,One year,Yes,Credit card (automatic),59,1215,No
+Kuheli 50-16085,Male,0,Yes,No,72,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),25,1874,No
+Kuheli 51-15575,Male,0,No,No,33,Yes,No,DSL,No,Yes,Yes,No,Yes,No,Month-to-month,Yes,Credit card (automatic),66,2245,No
+Kuheli 52-15805,Male,0,No,No,10,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Credit card (automatic),20,208,No
+Kuheli 53-18076,Male,0,Yes,Yes,25,Yes,Yes,DSL,No,No,No,No,Yes,No,Month-to-month,No,Electronic check,60,1405,No
+Kuheli 54-15189,Female,0,Yes,No,1,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Bank transfer (automatic),20,20,No
+Kuheli 55-18632,Male,0,Yes,No,10,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,86,814,Yes
+Kuheli 56-19272,Female,0,No,No,22,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,26,606,No
+Kuheli 57-18500,Male,1,No,No,15,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Electronic check,76,1147,Yes
+Kuheli 58-15179,Male,0,No,Yes,53,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Bank transfer (automatic),20,1052,Yes
+Kuheli 59-18621,Male,0,Yes,Yes,72,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,No,Two year,No,Bank transfer (automatic),82,5815,No
+Kuheli 60-18177,Male,1,Yes,No,32,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,No,Electronic check,85,2661,Yes
+Kuheli 61-16243,Male,0,No,No,4,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,76,319,Yes
+Kuheli 62-17166,Male,0,Yes,No,40,Yes,Yes,DSL,No,Yes,No,Yes,Yes,No,One year,No,Credit card (automatic),71,2922,No
+Kuheli 63-16082,Male,0,Yes,Yes,2,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Mailed check,70,144,No
+Kuheli 64-18345,Male,0,Yes,No,58,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,21,1186,No
+Kuheli 65-17333,Male,1,Yes,No,33,Yes,No,Fiber optic,Yes,Yes,No,Yes,No,Yes,One year,Yes,Electronic check,94,3056,No
+Kuheli 66-12983,Male,1,Yes,No,691,Yes,No,Fiber optic,No,No,Yes,No,Yes,No,Month-to-month,Yes,Credit card (automatic),8622,2874,No
+Kuheli 67-15433,Female,0,Yes,No,71,No,Maryville,DSL,Yes,Yes,Yes,Yes,Yes,Yes,One year,No,Bank transfer (automatic),67,4689,No
+Kuheli 68-19109,Female,0,Yes,Yes,63,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,No,Month-to-month,Yes,Electronic check,101,6215,Yes
+Kuheli 69-17339,Female,0,No,No,61,Yes,Yes,DSL,Yes,No,Yes,Yes,Yes,Yes,Two year,No,Credit card (automatic),86,5175,No
+Kuheli 70-16435,Male,1,No,No,30,Yes,Yes,Fiber optic,Yes,No,No,No,No,Yes,Month-to-month,Yes,Credit card (automatic),91,2596,No
+Kuheli 71-18104,Female,0,Yes,No,46,No,Maryville,DSL,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,44,2008,No
+Kuheli 72-15282,Female,0,Yes,No,66,Yes,Yes,DSL,Yes,Yes,Yes,No,No,No,Two year,No,Bank transfer (automatic),67,4370,No
+Kuheli 73-15007,Female,0,No,No,58,Yes,No,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,One year,Yes,Electronic check,106,6146,Yes
+Kuheli 74-18627,Female,1,No,No,1,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,79,79,Yes
+Kuheli 75-19697,Female,1,No,No,4,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,95,396,Yes
+Kuheli 76-19749,Male,0,No,No,42,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,No,Yes,One year,Yes,Electronic check,99,4298,No
+Kuheli 77-17613,Female,0,No,Yes,3,No,Maryville,DSL,No,Yes,No,No,No,No,Month-to-month,No,Mailed check,30,90,No
+Kuheli 78-16526,Female,1,No,No,56,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,No,Electronic check,105,5841,No
+Kuheli 79-17585,Male,0,Yes,Yes,7,No,Maryville,DSL,Yes,No,Yes,Yes,No,Yes,Two year,No,Credit card (automatic),50,306,No
+Kuheli 80-15081,Female,0,No,No,15,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,20,299,No
+Kuheli 81-18390,Male,0,No,No,17,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,Yes,Mailed check,20,280,No
+Kuheli 82-17708,Female,0,Yes,No,13,No,Maryville,DSL,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),49,633,Yes
+Kuheli 83-18138,Male,0,Yes,Yes,71,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,19,1378,No
+Kuheli 84-17690,Male,0,Yes,Yes,71,Yes,No,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,One year,Yes,Bank transfer (automatic),105,7288,No
+Kuheli 85-18071,Male,0,Yes,Yes,47,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),107,5119,Yes
+Kuheli 86-15126,Female,0,Yes,No,72,Yes,Yes,DSL,Yes,No,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),85,6065,No
+Kuheli 87-18432,Male,0,Yes,Yes,72,Yes,No,DSL,No,Yes,Yes,No,Yes,Yes,Two year,Yes,Bank transfer (automatic),75,5480,No
+Kuheli 88-17913,Female,1,Yes,No,32,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,93,2931,Yes
+Kuheli 89-17831,Male,1,Yes,No,13,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,95,1234,Yes
+Kuheli 90-18309,Male,0,Yes,Yes,7,No,Maryville,DSL,Yes,Yes,Yes,No,Yes,Yes,Month-to-month,No,Mailed check,59,466,No
+Kuheli 91-15239,Male,0,No,No,1,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,79,79,Yes
+Kuheli 92-17176,Female,0,Yes,Yes,41,Yes,Yes,DSL,Yes,Yes,Yes,Yes,No,Yes,Month-to-month,No,Credit card (automatic),80,3326,Yes
+Kuheli 93-19748,Female,0,Yes,No,51,Yes,No,Fiber optic,Yes,Yes,Yes,No,Yes,No,One year,Yes,Electronic check,94,4620,No
+Kuheli 94-17189,Male,1,No,No,37,No,Maryville,DSL,No,Yes,Yes,No,No,No,Month-to-month,No,Electronic check,37,1315,No
+Kuheli 95-18450,Male,0,Yes,Yes,25,Yes,No,Fiber optic,No,No,No,Yes,Yes,No,Month-to-month,No,Electronic check,86,2199,No
+Kuheli 96-16736,Female,0,Yes,Yes,34,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,No,Month-to-month,No,Electronic check,87,2874,Yes
+Kuheli 97-17240,Male,0,No,No,5,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,20,110,No
+Kuheli 98-19955,Female,0,No,No,63,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,No,Two year,Yes,Credit card (automatic),80,4861,No
+Kuheli 99-18189,Male,1,Yes,No,32,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,85,2642,Yes
+Kuheli 100-17161,Female,0,No,No,1,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,21,21,Yes
+Kuheli 101-15786,Female,0,No,No,1,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,No,Electronic check,91,91,Yes
+Kuheli 102-18598,Male,0,No,Yes,3,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,20,58,No
+Kuheli 103-18167,Female,1,Yes,No,22,Yes,Yes,DSL,Yes,Yes,No,Yes,No,No,Month-to-month,Yes,Mailed check,64,1382,No
+Kuheli 104-18254,Female,0,Yes,No,41,Yes,No,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,One year,Yes,Bank transfer (automatic),104,4162,No
+Kuheli 105-18169,Male,0,No,No,8,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,75,572,No
+Kuheli 106-18210,Female,0,Yes,No,57,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Bank transfer (automatic),20,1134,No
+Kuheli 107-17796,Male,1,Yes,No,7,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,70,468,Yes
+Kuheli 108-17723,Male,0,Yes,Yes,1,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,75,75,Yes
+Kuheli 109-18454,Male,0,Yes,No,30,Yes,No,DSL,No,No,Yes,No,No,No,Month-to-month,Yes,Mailed check,50,1475,No
+Kuheli 110-15033,Female,0,No,No,6,No,Maryville,DSL,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,48,305,Yes
+Kuheli 111-18041,Female,0,Yes,No,46,Yes,Yes,DSL,Yes,No,No,No,No,No,Month-to-month,No,Electronic check,53,2460,No
+Kuheli 112-18600,Female,0,No,No,24,Yes,Yes,Fiber optic,Yes,No,No,Yes,No,No,Month-to-month,Yes,Electronic check,84,1938,No
+Kuheli 113-19727,Male,0,Yes,No,57,Yes,No,DSL,Yes,Yes,No,Yes,No,No,Two year,Yes,Electronic check,60,3450,No
+Kuheli 114-18248,Female,0,No,No,50,Yes,No,Fiber optic,No,No,Yes,Yes,No,Yes,Two year,Yes,Bank transfer (automatic),90,4305,No
+Kuheli 115-16040,Male,0,Yes,No,16,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),74,1284,Yes
+Kuheli 116-15420,Female,0,No,No,10,Yes,No,DSL,No,No,No,Yes,No,Yes,Month-to-month,Yes,Mailed check,61,630,No
+Kuheli 117-15576,Male,0,No,No,30,Yes,No,Fiber optic,No,Yes,No,No,Yes,Yes,One year,Yes,Bank transfer (automatic),97,3021,No
+Kuheli 118-15533,Male,0,No,No,31,No,Maryville,DSL,No,No,Yes,No,Yes,Yes,One year,Yes,Electronic check,50,1523,No
+Kuheli 119-18451,Female,0,Yes,No,63,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,One year,Yes,Electronic check,108,6874,Yes
+Kuheli 120-19136,Male,1,Yes,No,20,Yes,No,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,74,1464,Yes
+Kuheli 121-15323,Male,0,No,No,43,Yes,Yes,Fiber optic,No,No,No,Yes,Yes,Yes,One year,Yes,Electronic check,100,4212,Yes
+Kuheli 122-17351,Female,0,No,No,2,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Mailed check,20,41,No
+Kuheli 123-18572,Male,1,Yes,No,71,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,No,No,One year,Yes,Electronic check,92,6585,No
+Kuheli 124-15798,Female,0,No,No,65,No,Maryville,DSL,Yes,No,Yes,Yes,Yes,Yes,Two year,No,Credit card (automatic),60,3921,No
+Kuheli 125-18014,Female,0,Yes,Yes,14,Yes,Yes,Fiber optic,No,Yes,No,No,No,Yes,Month-to-month,Yes,Bank transfer (automatic),91,1259,Yes
+Kuheli 126-15000,Male,1,No,No,62,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,One year,Yes,Bank transfer (automatic),111,7053,No
+Kuheli 127-17196,Male,1,Yes,No,32,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,105,3352,Yes
+Kuheli 128-18963,Male,0,No,No,66,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,25,1698,No
+Kuheli 129-15155,Male,0,Yes,Yes,69,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Bank transfer (automatic),20,1377,No
+Kuheli 130-17411,Male,0,No,Yes,27,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Credit card (automatic),20,553,No
+Kuheli 131-17218,Female,0,No,No,25,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,No,One year,No,Mailed check,74,1864,Yes
+Kuheli 132-15884,Female,0,Yes,Yes,51,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,20,1029,No
+Kuheli 133-17186,Male,0,Yes,No,66,Yes,Yes,Fiber optic,No,Yes,No,Yes,Yes,Yes,One year,Yes,Electronic check,104,6890,Yes
+Kuheli 134-16693,Male,1,No,No,38,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,No,Electronic check,95,3653,No
+Kuheli 135-16999,Male,0,Yes,Yes,19,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,21,415,No
+Kuheli 136-17415,Female,1,No,No,57,Yes,No,DSL,Yes,No,Yes,Yes,Yes,No,Two year,No,Bank transfer (automatic),70,4003,No
+Kuheli 137-18725,Male,1,Yes,No,49,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,No,No,Month-to-month,Yes,Electronic check,88,4159,No
+Kuheli 138-17430,Male,0,Yes,Yes,15,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,19,279,No
+Kuheli 139-17472,Male,0,No,No,1,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,19,19,Yes
+Kuheli 140-17550,Female,1,No,No,14,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,105,1531,Yes
+Kuheli 141-19729,Female,0,Yes,No,71,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Credit card (automatic),24,1733,No
+Kuheli 142-18003,Female,1,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70,70,Yes
+Kuheli 143-16558,Female,0,Yes,Yes,71,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),91,6239,No
+Kuheli 144-17330,Male,0,No,Yes,1,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,20,20,Yes
+Kuheli 145-16018,Male,0,No,No,28,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,106,2980,Yes
+Kuheli 146-16001,Female,0,Yes,No,69,Yes,No,DSL,No,Yes,No,No,No,Yes,Two year,Yes,Credit card (automatic),61,4131,No
+Kuheli 147-15722,Female,0,No,No,2,Yes,No,DSL,No,Yes,No,No,No,No,Month-to-month,Yes,Mailed check,50,115,Yes
+Kuheli 148-19113,Male,0,No,No,1,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Mailed check,20,20,No
+Kuheli 149-16589,Female,1,Yes,No,70,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,114,7715,No
+Kuheli 150-15275,Male,0,No,No,1,Yes,No,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,74,74,Yes
+Kuheli 151-18694,Male,1,Yes,No,15,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Bank transfer (automatic),86,1346,Yes
+Kuheli 152-16562,Male,0,No,No,25,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,Yes,Bank transfer (automatic),20,516,No
+Kuheli 153-18896,Male,0,Yes,Yes,3,Yes,No,DSL,No,Yes,Yes,No,No,No,Month-to-month,Yes,Mailed check,56,168,Yes
+Kuheli 154-18145,Female,0,No,No,1,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Electronic check,45,45,Yes
+Kuheli 155-19452,Male,0,Yes,Yes,39,Yes,No,Fiber optic,No,Yes,No,No,Yes,No,Month-to-month,Yes,Mailed check,86,3266,Yes
+Kuheli 156-19931,Female,0,No,No,31,Yes,No,DSL,No,Yes,Yes,Yes,Yes,Yes,Two year,No,Mailed check,79,2497,No
+Kuheli 157-15607,Female,0,No,No,9,Yes,No,DSL,No,No,No,Yes,Yes,No,Month-to-month,Yes,Bank transfer (automatic),60,530,No
+Kuheli 158-16303,Female,0,Yes,Yes,32,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,99,3090,No
+Kuheli 159-18861,Male,0,Yes,Yes,71,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,20,1396,No
+Kuheli 160-18811,Female,1,No,No,71,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Two year,No,Bank transfer (automatic),104,7414,No
+Kuheli 161-16394,Male,0,Yes,Yes,38,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Electronic check,20,717,No
+Kuheli 162-15416,Male,0,Yes,Yes,70,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),90,6237,No
+Kuheli 163-15851,Male,1,Yes,No,71,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Bank transfer (automatic),25,1901,No
+Kuheli 164-18604,Female,0,Yes,Yes,62,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,One year,Yes,Electronic check,111,6841,No
+Kuheli 165-18482,Female,0,Yes,No,17,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,No,Electronic check,93,1580,No
+Kuheli 166-18495,Female,1,No,No,45,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,One year,Yes,Bank transfer (automatic),102,4735,No
+Kuheli 167-17331,Female,0,No,No,72,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Credit card (automatic),115,8405,No
+Kuheli 168-15765,Female,0,Yes,No,33,No,Maryville,DSL,Yes,No,Yes,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),60,2016,No
+Kuheli 169-15950,Female,0,Yes,Yes,58,No,Maryville,DSL,Yes,No,Yes,Yes,Yes,Yes,Two year,No,Mailed check,60,3624,No
+Kuheli 170-17996,Male,0,No,No,54,No,Maryville,DSL,Yes,No,No,Yes,Yes,No,Two year,No,Credit card (automatic),45,2461,No
+Kuheli 171-16868,Male,0,Yes,No,24,Yes,No,DSL,Yes,No,No,Yes,Yes,Yes,One year,No,Bank transfer (automatic),74,1713,No
+Kuheli 172-16780,Male,0,No,No,68,Yes,No,Fiber optic,No,Yes,Yes,No,No,No,One year,No,Credit card (automatic),80,5461,No
+Kuheli 173-17770,Female,1,Yes,No,70,Yes,Yes,Fiber optic,No,Yes,No,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),104,7349,No
+Kuheli 174-16684,Female,0,No,No,37,Yes,No,Fiber optic,No,Yes,Yes,No,No,No,One year,No,Electronic check,80,3019,No
+Kuheli 175-17107,Female,0,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,80,80,Yes
+Kuheli 176-15907,Female,0,No,No,20,Yes,Yes,DSL,No,Yes,No,Yes,No,Yes,Month-to-month,Yes,Credit card (automatic),69,1370,No
+Kuheli 177-19612,Female,1,Yes,No,55,Yes,Yes,Fiber optic,No,Yes,Yes,No,No,No,Month-to-month,Yes,Electronic check,85,4875,Yes
+Kuheli 178-15939,Female,0,Yes,Yes,2,Yes,No,DSL,No,No,No,No,Yes,Yes,Month-to-month,No,Mailed check,66,134,Yes
+Kuheli 179-16654,Male,0,No,No,10,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,74,812,Yes
+Kuheli 180-19385,Female,1,No,No,44,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,One year,Yes,Credit card (automatic),110,4860,No
+Kuheli 181-15623,Male,0,No,No,66,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,One year,Yes,Bank transfer (automatic),114,7384,No
+Kuheli 182-16429,Male,0,No,No,17,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Mailed check,20,311,No
+Kuheli 183-17019,Male,1,No,No,57,Yes,No,DSL,No,No,Yes,Yes,No,No,One year,Yes,Electronic check,54,3036,No
+Kuheli 184-16539,Female,0,Yes,Yes,30,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Mailed check,25,790,No
+Kuheli 185-18176,Female,0,No,Yes,31,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Credit card (automatic),87,2697,Yes
+Kuheli 186-15484,Female,0,No,No,28,Yes,No,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,81,2245,No
+Kuheli 187-18468,Male,0,Yes,Yes,2,Yes,No,Fiber optic,No,No,Yes,Yes,No,Yes,Month-to-month,No,Credit card (automatic),90,190,Yes
+Kuheli 188-15105,Male,0,No,No,2,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,45,75,Yes
+Kuheli 189-17487,Male,1,Yes,No,29,Yes,No,Fiber optic,Yes,No,Yes,No,No,Yes,One year,No,Bank transfer (automatic),90,2657,No
+Kuheli 190-16273,Female,0,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,71,71,Yes
+Kuheli 191-18677,Male,0,Yes,Yes,60,Yes,No,DSL,Yes,Yes,Yes,Yes,No,No,One year,Yes,Bank transfer (automatic),66,3928,No
+Kuheli 192-15498,Male,0,Yes,Yes,61,Yes,No,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,One year,No,Credit card (automatic),104,6449,No
+Kuheli 193-17001,Male,1,Yes,No,69,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,No,Month-to-month,Yes,Electronic check,90,6143,Yes
+Kuheli 194-19405,Male,0,No,No,30,Yes,No,Fiber optic,Yes,Yes,Yes,No,No,No,Month-to-month,Yes,Credit card (automatic),84,2439,No
+Kuheli 195-18010,Male,1,Yes,No,58,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,One year,Yes,Electronic check,109,6287,Yes
+Kuheli 196-15061,Female,0,No,No,36,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,No,One year,Yes,Mailed check,76,2606,No
+Kuheli 197-19374,Female,0,No,No,7,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Bank transfer (automatic),20,138,Yes
+Kuheli 198-17846,Female,0,No,No,1,Yes,Yes,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,50,50,No
+Kuheli 199-19756,Female,0,Yes,Yes,41,Yes,No,DSL,Yes,No,No,Yes,Yes,Yes,One year,Yes,Credit card (automatic),75,3188,No
+Kuheli 200-17364,Male,0,Yes,No,1,Yes,No,Fiber optic,No,No,No,Yes,Yes,No,Month-to-month,Yes,Electronic check,85,85,Yes
+Kuheli 201-18587,Male,1,No,No,29,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),101,2949,No
+Kuheli 202-15592,Female,0,No,No,37,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,No,Month-to-month,Yes,Credit card (automatic),79,2977,No
+Kuheli 203-19115,Female,0,Yes,No,67,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,One year,Yes,Electronic check,111,7512,No
+Kuheli 204-15248,Male,0,No,No,9,No,Maryville,DSL,Yes,Yes,Yes,No,No,No,One year,No,Mailed check,40,373,No
+Kuheli 205-15803,Female,1,No,No,45,Yes,Yes,DSL,Yes,No,No,Yes,No,Yes,Month-to-month,Yes,Electronic check,70,3062,No
+Kuheli 206-15091,Female,0,Yes,No,71,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,24,1672,No
+Kuheli 207-15929,Male,0,Yes,Yes,68,Yes,No,Fiber optic,Yes,No,No,Yes,Yes,Yes,Two year,Yes,Electronic check,100,6668,No
+Kuheli 208-17624,Male,0,No,No,2,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,19,51,No
+Kuheli 209-18976,Female,1,No,No,5,Yes,No,Fiber optic,No,Yes,No,No,Yes,No,Month-to-month,Yes,Electronic check,85,393,No
+Kuheli 210-18416,Female,0,Yes,Yes,56,Yes,Yes,DSL,Yes,No,No,No,Yes,No,One year,No,Bank transfer (automatic),65,3512,No
+Kuheli 211-16167,Male,1,Yes,No,25,Yes,Yes,Fiber optic,Yes,No,No,No,No,Yes,One year,Yes,Electronic check,89,2177,Yes
+Kuheli 212-16214,Male,1,No,No,35,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,101,3496,Yes
+Kuheli 213-17162,Male,0,No,No,49,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,No,Electronic check,99,4921,No
+Kuheli 214-18873,Male,1,Yes,No,39,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,106,4285,Yes
+Kuheli 215-17883,Female,0,No,No,71,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,119,8478,No
+Kuheli 216-16236,Male,0,No,No,15,Yes,Yes,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,49,749,No
+Kuheli 217-16593,Female,0,Yes,Yes,64,Yes,Yes,Fiber optic,Yes,No,No,Yes,No,No,Month-to-month,Yes,Bank transfer (automatic),87,5327,No
+Kuheli 218-19586,Female,0,Yes,No,29,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,75,2149,No
+Kuheli 219-17470,Female,0,No,No,8,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Bank transfer (automatic),80,679,Yes
+Kuheli 220-16042,Female,0,Yes,No,6,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,105,545,Yes
+Kuheli 221-15222,Female,0,Yes,No,5,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,69,352,No
+Kuheli 222-18315,Male,0,Yes,Yes,23,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),20,427,No
+Kuheli 223-16193,Male,1,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,72,72,Yes
+Kuheli 224-18890,Female,0,No,No,69,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),25,1678,No
+Kuheli 225-18371,Male,0,No,No,11,Yes,No,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Mailed check,76,866,No
+Kuheli 226-17522,Male,0,Yes,No,69,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Mailed check,85,5879,No
+Kuheli 227-16357,Female,0,No,No,49,Yes,No,DSL,No,No,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),74,3722,No
+Kuheli 228-18804,Female,0,No,No,14,Yes,No,DSL,No,Yes,No,No,No,No,Month-to-month,No,Electronic check,50,765,No
+Kuheli 229-16169,Male,1,Yes,No,43,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,101,4388,Yes
+Kuheli 230-15266,Female,0,Yes,Yes,71,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),20,1397,No
+Kuheli 231-18464,Female,0,Yes,Yes,69,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),20,1437,No
+Kuheli 232-15208,Female,1,Yes,No,31,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,85,2633,No
+Kuheli 233-17523,Female,0,No,No,53,Yes,No,Fiber optic,Yes,Yes,Yes,Yes,No,Yes,Two year,No,Mailed check,100,5424,No
+Kuheli 234-18256,Female,0,No,No,2,Yes,No,Fiber optic,No,Yes,No,No,Yes,No,Month-to-month,Yes,Bank transfer (automatic),87,184,Yes
+Kuheli 235-17079,Male,0,Yes,No,49,No,Maryville,DSL,No,Yes,No,No,Yes,Yes,Two year,No,Credit card (automatic),50,2410,No
+Kuheli 236-15355,Male,0,No,No,3,Yes,Yes,DSL,No,No,No,Yes,Yes,No,Month-to-month,Yes,Mailed check,65,210,No
+Kuheli 237-17863,Female,0,No,No,56,Yes,Yes,Fiber optic,Yes,Yes,No,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),107,5894,No
+Kuheli 238-18647,Male,0,Yes,Yes,11,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Electronic check,20,251,No
+Kuheli 239-15429,Female,0,No,No,22,Yes,No,DSL,Yes,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),49,1055,Yes
+Kuheli 240-15497,Female,0,No,No,39,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),21,762,No
+Kuheli 241-15619,Female,0,Yes,No,68,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,No,Two year,Yes,Bank transfer (automatic),90,5974,No
+Kuheli 242-19581,Female,0,Yes,Yes,40,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Mailed check,25,1025,No
+Kuheli 243-18766,Male,0,Yes,Yes,34,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,No,Electronic check,78,2564,Yes
+Kuheli 244-15807,Female,0,Yes,No,63,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,109,6872,No
+Kuheli 245-17460,Male,0,Yes,Yes,34,No,Maryville,DSL,No,No,No,Yes,Yes,No,Two year,Yes,Electronic check,41,1326,No
+Kuheli 246-19491,Male,0,Yes,No,2,Yes,No,Fiber optic,No,No,No,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,94,168,Yes
+Kuheli 247-16485,Male,0,Yes,Yes,11,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Bank transfer (automatic),21,267,No
+Kuheli 248-19051,Female,1,Yes,Yes,32,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,No,Month-to-month,Yes,Mailed check,91,2897,No
+Kuheli 249-17276,Male,0,Yes,Yes,32,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,19,614,No
+Kuheli 250-15146,Male,1,No,No,69,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),20,1356,No
+Kuheli 251-17969,Male,0,Yes,No,67,Yes,No,Fiber optic,Yes,Yes,No,No,No,Yes,One year,Yes,Credit card (automatic),91,6056,Yes
+Kuheli 252-18011,Female,0,Yes,Yes,25,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,No,Month-to-month,Yes,Bank transfer (automatic),89,2258,Yes
+Kuheli 253-18912,Female,1,No,No,11,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,No,Bank transfer (automatic),90,1048,Yes
+Kuheli 254-18442,Female,0,No,No,1,Yes,No,Fiber optic,No,Yes,No,Yes,Yes,No,Month-to-month,No,Electronic check,92,92,Yes
+Kuheli 255-17210,Male,0,No,Yes,71,Yes,Yes,Fiber optic,Yes,Yes,No,No,No,No,One year,Yes,Credit card (automatic),85,6029,No
+Kuheli 256-16652,Female,1,No,No,2,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,84,186,No
+Kuheli 257-17657,Female,0,Yes,No,68,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),115,7844,No
+Kuheli 258-16959,Male,1,Yes,No,72,No,Maryville,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),64,4641,No
+Kuheli 259-16160,Female,0,No,No,26,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),101,2600,No
+Kuheli 260-15050,Female,0,No,No,4,Yes,No,DSL,No,No,No,No,Yes,No,Month-to-month,No,Credit card (automatic),56,227,No
+Kuheli 261-15470,Female,0,No,No,44,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,No,Month-to-month,Yes,Credit card (automatic),88,3973,No
+Kuheli 262-18250,Female,0,Yes,No,54,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),20,1102,No
+Kuheli 263-16847,Male,0,Yes,Yes,15,Yes,No,Fiber optic,Yes,No,No,No,No,No,Month-to-month,No,Mailed check,75,1152,No
+Kuheli 264-18060,Female,0,No,No,1,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,21,21,No
+Kuheli 265-19972,Male,0,Yes,Yes,47,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,99,4749,Yes
+Kuheli 266-17890,Female,0,No,No,46,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Bank transfer (automatic),45,2169,No
+Kuheli 267-17231,Female,0,No,Yes,46,Yes,Yes,Fiber optic,No,No,Yes,Yes,No,No,Month-to-month,Yes,Bank transfer (automatic),85,3959,No
+Kuheli 268-17741,Female,0,No,No,60,Yes,Yes,DSL,No,No,Yes,Yes,Yes,Yes,One year,No,Credit card (automatic),81,4847,No
+Kuheli 269-17179,Female,0,No,No,4,Yes,No,DSL,Yes,Yes,No,No,No,No,Month-to-month,No,Electronic check,55,221,No
+Kuheli 270-16276,Male,0,No,Yes,23,No,Maryville,DSL,Yes,Yes,No,Yes,No,No,One year,No,Bank transfer (automatic),41,947,No
+Kuheli 271-15815,Male,0,No,Yes,1,No,Maryville,DSL,No,Yes,No,Yes,No,No,Month-to-month,No,Mailed check,34,34,No
+Kuheli 272-19523,Male,0,No,No,24,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,80,1862,Yes
+Kuheli 273-17980,Female,0,No,No,1,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,45,45,Yes
+Kuheli 274-19167,Male,0,Yes,Yes,38,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),25,964,No
+Kuheli 275-17137,Female,0,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,82,82,Yes
+Kuheli 276-18382,Male,0,Yes,Yes,53,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Mailed check,19,1110,No
+Kuheli 277-16989,Male,0,No,No,1,Yes,Yes,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Mailed check,25,25,No
+Kuheli 278-18201,Female,0,No,No,30,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),19,579,No
+Kuheli 279-18484,Female,0,No,Yes,63,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),20,1215,No
+Kuheli 280-17877,Male,0,No,No,1,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,20,20,No
+Kuheli 281-15704,Female,0,No,No,12,Yes,No,Fiber optic,Yes,No,No,No,Yes,No,One year,Yes,Credit card (automatic),85,979,No
+Kuheli 282-17025,Female,0,Yes,Yes,62,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,100,6283,Yes
+Kuheli 283-15221,Female,0,No,Yes,2,Yes,No,DSL,No,Yes,No,No,No,No,Month-to-month,No,Mailed check,52,106,No
+Kuheli 284-19471,Male,0,Yes,Yes,58,Yes,Yes,Fiber optic,No,Yes,No,Yes,Yes,No,One year,Yes,Credit card (automatic),95,5430,No
+Kuheli 285-19269,Male,0,No,No,65,Yes,Yes,DSL,No,Yes,Yes,Yes,No,Yes,Two year,Yes,Credit card (automatic),74,4806,No
+Kuheli 286-15032,Male,0,Yes,Yes,19,Yes,Yes,DSL,No,No,No,No,No,No,Month-to-month,No,Credit card (automatic),50,910,No
+Kuheli 287-18836,Female,0,No,No,67,Yes,No,DSL,Yes,No,Yes,Yes,No,Yes,One year,Yes,Bank transfer (automatic),72,4992,No
+Kuheli 288-19466,Male,0,No,No,2,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,80,174,No
+Kuheli 289-15503,Female,0,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70,70,Yes
+Kuheli 290-16425,Female,0,Yes,Yes,28,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Bank transfer (automatic),20,544,No
+Kuheli 291-18130,Male,0,No,No,1,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),44,44,No
+Kuheli 292-19909,Male,0,Yes,No,29,No,Maryville,DSL,No,No,No,No,Yes,No,Month-to-month,No,Mailed check,34,1009,No
+Kuheli 293-17952,Female,0,No,Yes,1,No,Maryville,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,25,25,No
+Kuheli 294-16492,Male,0,No,No,19,Yes,Yes,Fiber optic,Yes,No,Yes,No,No,No,Month-to-month,Yes,Electronic check,85,1652,No
+Kuheli 295-19432,Male,0,Yes,Yes,15,Yes,No,Fiber optic,Yes,No,No,Yes,Yes,Yes,One year,No,Electronic check,102,1667,No
+Kuheli 296-15243,Male,0,Yes,No,33,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,No,Electronic check,91,2964,No
+Kuheli 297-17977,Male,0,Yes,Yes,62,Yes,No,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Mailed check,108,6826,No
+Kuheli 298-17093,Female,0,Yes,No,21,Yes,No,Fiber optic,No,No,Yes,Yes,No,No,One year,No,Electronic check,79,1742,No
+Kuheli 299-19345,Female,0,No,No,17,Yes,Yes,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,25,475,No
+Kuheli 300-19103,Male,0,No,No,30,Yes,Yes,Fiber optic,Yes,Yes,No,No,No,Yes,Month-to-month,Yes,Credit card (automatic),94,2680,No
+Kuheli 301-19353,Male,1,Yes,No,20,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,95,1900,Yes
+Kuheli 302-17842,Female,0,No,No,2,Yes,No,Fiber optic,No,No,No,No,No,Yes,Month-to-month,No,Electronic check,81,184,Yes
+Kuheli 303-16220,Male,0,No,No,3,Yes,Yes,DSL,No,No,No,No,No,No,Month-to-month,No,Bank transfer (automatic),50,137,No
+Kuheli 304-19869,Male,1,No,No,71,No,Maryville,DSL,Yes,Yes,No,No,Yes,Yes,One year,Yes,Electronic check,56,3985,No
+Kuheli 305-16632,Male,0,Yes,No,31,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,One year,Yes,Electronic check,94,2940,No
+Kuheli 306-16020,Male,0,No,No,3,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,No,Mailed check,91,238,No
+Kuheli 307-15397,Male,0,No,No,45,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),104,4748,No
+Kuheli 308-19959,Female,0,No,No,11,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),98,1105,Yes
+Kuheli 309-17251,Male,0,No,No,7,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Mailed check,19,169,No
+Kuheli 310-15252,Male,0,No,No,2,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,77,162,Yes
+Kuheli 311-18188,Female,0,Yes,Yes,71,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,No,No,One year,Yes,Credit card (automatic),95,6771,No
+Kuheli 312-17392,Female,0,No,No,31,Yes,Yes,Fiber optic,Yes,Yes,No,No,Yes,Yes,Month-to-month,No,Electronic check,104,3206,No
+Kuheli 313-17927,Female,0,Yes,Yes,67,Yes,Yes,Fiber optic,No,Yes,No,Yes,Yes,No,Two year,No,Credit card (automatic),94,6303,No
+Kuheli 314-19995,Male,0,No,No,45,No,Maryville,DSL,Yes,No,Yes,Yes,No,No,One year,No,Bank transfer (automatic),42,1841,No
+Kuheli 315-16374,Female,1,Yes,Yes,62,Yes,Yes,Fiber optic,No,Yes,Yes,No,No,Yes,Month-to-month,Yes,Credit card (automatic),96,6019,No
+Kuheli 316-19877,Female,0,No,No,6,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,21,113,No
+Kuheli 317-16138,Male,0,No,Yes,19,No,Maryville,DSL,No,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),25,566,No
+Kuheli 318-16104,Female,0,Yes,No,68,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Mailed check,119,7990,No
+Kuheli 319-17775,Female,0,No,No,28,Yes,Yes,Fiber optic,No,Yes,No,No,No,Yes,Month-to-month,Yes,Electronic check,90,2626,Yes
+Kuheli 320-19616,Male,1,Yes,Yes,72,No,Maryville,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),65,4732,No
+Kuheli 321-18838,Female,1,Yes,No,23,Yes,No,Fiber optic,Yes,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,95,2326,No
+Kuheli 322-16000,Male,0,Yes,Yes,42,Yes,No,DSL,Yes,Yes,No,No,No,No,Month-to-month,No,Mailed check,55,2301,No
+Kuheli 323-17847,Male,0,No,No,68,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Bank transfer (automatic),24,1499,No
+Kuheli 324-18872,Male,0,No,No,7,Yes,No,Fiber optic,No,No,Yes,No,No,No,Month-to-month,No,Mailed check,75,545,Yes
+Kuheli 325-16407,Female,0,No,No,2,Yes,No,Fiber optic,Yes,Yes,No,Yes,No,No,Month-to-month,Yes,Electronic check,86,182,Yes
+Kuheli 326-16037,Female,0,No,No,8,No,Maryville,DSL,No,Yes,No,No,No,No,Month-to-month,Yes,Mailed check,29,227,No
+Kuheli 327-19830,Male,1,Yes,No,58,No,Maryville,DSL,No,Yes,Yes,No,No,Yes,Month-to-month,Yes,Electronic check,45,2651,Yes
+Kuheli 328-15723,Female,0,No,No,1,Yes,Yes,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Mailed check,26,26,No
+Kuheli 329-15265,Male,0,Yes,No,12,Yes,No,Fiber optic,Yes,Yes,Yes,No,No,No,Month-to-month,Yes,Electronic check,85,960,No
+Kuheli 330-17794,Male,0,Yes,Yes,67,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,One year,Yes,Electronic check,111,7482,Yes
+Kuheli 331-18305,Male,0,Yes,No,72,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Credit card (automatic),114,8375,No
+Kuheli 332-17783,Female,0,Yes,No,70,No,Maryville,DSL,Yes,No,Yes,Yes,No,Yes,Two year,Yes,Bank transfer (automatic),50,3370,No
+Kuheli 333-15383,Female,0,Yes,No,72,Yes,Yes,DSL,Yes,Yes,No,Yes,No,No,Two year,No,Bank transfer (automatic),65,4805,No
+Kuheli 334-17298,Female,0,No,No,35,No,Maryville,DSL,No,No,No,No,No,No,Month-to-month,No,Electronic check,24,813,No
+Kuheli 335-18972,Male,1,No,No,8,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,101,819,Yes
+Kuheli 336-16996,Male,0,No,No,27,Yes,No,DSL,Yes,No,Yes,Yes,Yes,Yes,One year,No,Electronic check,82,2213,No
+Kuheli 337-17851,Male,0,No,No,18,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Electronic check,19,349,No
+Kuheli 338-18322,Female,0,No,No,4,Yes,Yes,Fiber optic,Yes,No,No,No,No,No,Month-to-month,Yes,Electronic check,80,320,No
+Kuheli 339-19355,Female,1,No,No,49,Yes,No,Fiber optic,No,Yes,Yes,No,No,Yes,One year,Yes,Bank transfer (automatic),90,4287,No
+Kuheli 340-19229,Male,0,Yes,No,17,Yes,No,DSL,Yes,Yes,No,No,No,Yes,One year,No,Mailed check,65,1176,No
+Kuheli 341-19752,Male,0,No,No,41,Yes,Yes,DSL,No,No,Yes,No,No,Yes,One year,No,Mailed check,65,2532,No
+Kuheli 342-15562,Female,0,No,Yes,19,Yes,No,DSL,Yes,Yes,Yes,No,No,No,Month-to-month,Yes,Electronic check,61,1298,No
+Kuheli 343-17558,Male,0,Yes,Yes,32,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Credit card (automatic),19,675,No
+Kuheli 344-18610,Female,0,Yes,Yes,12,Yes,No,DSL,No,No,Yes,No,Yes,No,Month-to-month,Yes,Credit card (automatic),58,741,No
+Kuheli 345-18396,Male,0,No,No,30,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,90,2755,Yes
+Kuheli 346-18022,Male,1,No,No,1,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,94,94,Yes
+Kuheli 347-18749,Male,0,No,No,1,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,45,45,Yes
+Kuheli 348-18067,Female,0,Yes,No,53,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,One year,Yes,Bank transfer (automatic),112,5810,No
+Kuheli 349-19682,Male,0,No,No,71,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Credit card (automatic),20,1355,No
+Kuheli 350-18943,Female,0,No,No,36,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Mailed check,20,621,No
+Kuheli 351-15399,Female,0,Yes,Yes,52,Yes,No,DSL,No,No,Yes,No,No,No,One year,Yes,Bank transfer (automatic),51,2611,No
+Kuheli 352-18630,Male,0,No,No,54,Yes,No,Fiber optic,Yes,No,Yes,Yes,No,No,One year,No,Electronic check,84,4484,No
+Kuheli 353-19470,Male,0,Yes,Yes,35,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,20,687,No
+Kuheli 354-16260,Male,0,No,No,35,No,Maryville,DSL,No,No,Yes,No,Yes,Yes,Month-to-month,No,Electronic check,49,1702,No
+Kuheli 355-17477,Male,1,Yes,No,36,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Credit card (automatic),85,3133,Yes
+Kuheli 356-18128,Male,0,No,No,1,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,46,46,No
+Kuheli 357-16074,Female,0,Yes,Yes,48,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,One year,Yes,Mailed check,82,4030,Yes
+Kuheli 358-17766,Male,0,Yes,Yes,36,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),19,755,No
+Kuheli 359-16725,Male,0,No,No,33,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Electronic check,68,2171,Yes
+Kuheli 360-17206,Female,0,No,No,15,Yes,No,DSL,No,Yes,No,No,No,No,Month-to-month,No,Electronic check,49,737,No
+Kuheli 361-19001,Female,1,No,No,4,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,94,424,Yes
+Kuheli 362-15817,Female,0,Yes,No,62,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,101,6165,No
+Kuheli 363-19578,Female,0,Yes,Yes,5,Yes,Yes,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Mailed check,24,132,No
+Kuheli 364-16692,Female,0,Yes,Yes,3,Yes,No,Fiber optic,No,Yes,No,Yes,No,No,Month-to-month,Yes,Electronic check,80,241,No
+Kuheli 365-19222,Female,0,Yes,Yes,3,No,Maryville,DSL,No,Yes,No,No,No,Yes,Month-to-month,No,Mailed check,40,93,No
+Kuheli 366-17833,Female,0,No,No,13,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Mailed check,20,273,No
+Kuheli 367-15038,Male,1,No,No,50,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,96,4817,Yes
+Kuheli 368-19504,Male,0,No,No,1,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,20,20,No
+Kuheli 369-19772,Female,0,Yes,Yes,31,Yes,No,DSL,Yes,No,Yes,Yes,Yes,Yes,One year,Yes,Mailed check,81,2546,No
+Kuheli 370-19525,Male,0,Yes,No,24,Yes,No,DSL,Yes,No,No,Yes,No,No,Month-to-month,No,Mailed check,54,1315,No
+Kuheli 371-18907,Male,0,No,No,29,Yes,No,DSL,No,No,Yes,Yes,Yes,Yes,One year,Yes,Bank transfer (automatic),75,2244,No
+Kuheli 372-18900,Male,0,Yes,Yes,67,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,No,No,One year,No,Electronic check,90,6039,No
+Kuheli 373-17321,Female,0,No,No,4,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),70,267,Yes
+Kuheli 374-18421,Female,0,Yes,Yes,17,Yes,No,Fiber optic,No,No,Yes,Yes,Yes,Yes,One year,No,Bank transfer (automatic),99,1705,Yes
+Kuheli 375-16347,Female,1,Yes,No,70,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Credit card (automatic),20,1462,No
+Kuheli 376-17957,Male,0,No,No,7,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,19,165,No
+Kuheli 377-19773,Male,0,No,No,24,No,Maryville,DSL,Yes,No,No,No,Yes,Yes,One year,Yes,Mailed check,51,1289,No
+Kuheli 378-15946,Female,1,No,No,30,No,Maryville,DSL,No,No,Yes,No,Yes,No,Month-to-month,Yes,Electronic check,40,1173,Yes
+Kuheli 379-17879,Male,0,Yes,Yes,46,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,Yes,Bank transfer (automatic),20,846,No
+Kuheli 380-19796,Male,0,Yes,Yes,71,Yes,Yes,Fiber optic,Yes,No,Yes,No,Yes,Yes,Two year,No,Electronic check,106,7406,No
+Kuheli 381-18704,Male,0,No,No,6,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Electronic check,45,271,Yes
+Kuheli 382-19563,Female,0,No,No,26,No,Maryville,DSL,No,No,Yes,Yes,Yes,No,Month-to-month,Yes,Credit card (automatic),44,1184,No
+Kuheli 383-19547,Female,1,No,No,22,Yes,No,DSL,Yes,No,Yes,Yes,No,Yes,Month-to-month,Yes,Mailed check,70,1545,No
+Kuheli 384-15971,Female,0,Yes,No,20,No,Maryville,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,24,483,Yes
+Kuheli 385-15389,Male,0,Yes,Yes,25,Yes,Yes,DSL,No,No,No,Yes,No,No,One year,Yes,Mailed check,55,1466,No
+Kuheli 386-17633,Male,1,No,No,18,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,No,Month-to-month,No,Bank transfer (automatic),94,1744,No
+Kuheli 387-19716,Female,0,No,Yes,1,Yes,Yes,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,25,25,No
+Kuheli 388-16077,Female,0,Yes,No,24,Yes,Yes,DSL,Yes,Yes,Yes,No,No,No,Month-to-month,No,Mailed check,66,1559,No
+Kuheli 389-16978,Male,0,No,Yes,33,No,Maryville,DSL,Yes,No,No,Yes,No,No,One year,No,Credit card (automatic),34,1114,No
+Kuheli 390-15891,Female,0,Yes,No,72,Yes,Yes,Fiber optic,Yes,Yes,No,No,No,Yes,Two year,Yes,Credit card (automatic),94,6922,No
+Kuheli 391-16112,Female,1,Yes,No,72,Yes,Yes,Fiber optic,Yes,Yes,No,No,Yes,Yes,One year,Yes,Bank transfer (automatic),107,7677,No
+Kuheli 392-16420,Female,0,No,No,40,Yes,No,DSL,Yes,Yes,No,No,Yes,No,Month-to-month,No,Mailed check,65,2586,No
+Kuheli 393-17683,Male,0,Yes,Yes,35,Yes,Yes,DSL,No,No,No,Yes,Yes,Yes,One year,Yes,Bank transfer (automatic),73,2661,No
+Kuheli 394-17641,Female,0,Yes,No,67,Yes,Yes,DSL,Yes,Yes,Yes,No,No,Yes,One year,No,Mailed check,75,5064,No
+Kuheli 395-15582,Female,0,Yes,No,17,Yes,Yes,DSL,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),75,1323,No
+Kuheli 396-16126,Male,0,Yes,Yes,9,Yes,No,Fiber optic,No,No,Yes,Yes,Yes,Yes,Month-to-month,No,Electronic check,103,970,No
+Kuheli 397-17956,Female,1,No,No,28,Yes,Yes,DSL,No,Yes,Yes,Yes,No,No,Month-to-month,No,Bank transfer (automatic),64,1868,No
+Kuheli 398-17393,Female,0,No,No,13,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Mailed check,20,261,No
+Kuheli 399-18367,Female,1,Yes,No,17,Yes,Yes,Fiber optic,Yes,No,Yes,No,No,No,Month-to-month,Yes,Bank transfer (automatic),85,1463,Yes
+Kuheli 400-15403,Female,0,Yes,Yes,68,Yes,Yes,DSL,No,Yes,Yes,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),85,5560,No
+Kuheli 401-15985,Female,0,No,No,2,Yes,Yes,DSL,No,No,No,Yes,No,No,Month-to-month,Yes,Mailed check,54,117,No
+Kuheli 402-19482,Female,0,No,No,28,Yes,No,DSL,Yes,No,No,Yes,No,No,One year,No,Mailed check,54,1546,No
+Kuheli 403-17323,Male,0,Yes,Yes,42,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,21,829,No
+Kuheli 404-16614,Female,0,Yes,Yes,4,Yes,No,Fiber optic,No,No,Yes,No,No,No,Month-to-month,Yes,Electronic check,74,325,Yes
+Kuheli 405-16861,Female,0,Yes,Yes,41,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,One year,Yes,Bank transfer (automatic),109,4454,No
+Kuheli 406-17072,Female,0,Yes,No,69,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,116,8183,No
+Kuheli 407-17647,Female,0,No,No,49,Yes,No,DSL,Yes,Yes,Yes,Yes,No,No,Two year,No,Bank transfer (automatic),67,3307,No
+Kuheli 408-15110,Male,0,No,No,44,Yes,No,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,One year,Yes,Electronic check,106,4511,No
+Kuheli 409-15178,Female,0,Yes,No,58,Yes,Yes,DSL,Yes,No,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,84,4916,No
+Kuheli 410-18982,Male,0,Yes,No,71,Yes,Yes,DSL,Yes,Yes,Yes,Yes,No,Yes,Two year,Yes,Mailed check,80,5585,No
+Kuheli 411-17893,Female,0,No,No,3,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Electronic check,75,242,Yes
+Kuheli 412-16753,Female,0,Yes,Yes,23,Yes,No,Fiber optic,No,Yes,Yes,Yes,No,No,Month-to-month,No,Electronic check,84,1900,Yes
+Kuheli 413-18711,Female,0,Yes,Yes,30,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,108,3243,No
+Kuheli 414-16283,Male,1,No,No,11,Yes,No,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,79,874,No
+Kuheli 415-16045,Female,1,No,No,6,Yes,No,Fiber optic,No,No,Yes,No,No,No,Month-to-month,No,Electronic check,74,434,Yes
+Kuheli 416-15889,Male,0,No,No,2,No,Maryville,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,25,56,Yes
+Kuheli 417-19277,Male,0,Yes,Yes,61,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),21,1306,No
+Kuheli 418-19415,Female,0,Yes,Yes,1,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Mailed check,19,19,No
+Kuheli 419-15897,Male,0,No,No,6,Yes,No,DSL,Yes,No,No,No,No,Yes,Month-to-month,Yes,Bank transfer (automatic),59,337,No
+Kuheli 420-17328,Female,0,Yes,Yes,51,Yes,Yes,Fiber optic,Yes,No,No,Yes,Yes,No,One year,Yes,Mailed check,95,5000,No
+Kuheli 421-15725,Female,0,No,No,31,Yes,Yes,Fiber optic,No,No,No,Yes,No,No,Month-to-month,Yes,Credit card (automatic),80,2404,Yes
+Kuheli 422-16528,Male,0,Yes,Yes,8,Yes,No,DSL,Yes,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),51,412,No
+Kuheli 423-18949,Female,0,No,No,1,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,20,20,Yes
+Kuheli 424-18755,Male,0,No,No,1,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Electronic check,45,45,Yes
+Kuheli 425-18438,Male,0,No,Yes,39,No,Maryville,DSL,Yes,No,No,Yes,Yes,No,One year,No,Bank transfer (automatic),45,1791,No
+Kuheli 426-16150,Female,0,No,No,2,Yes,No,DSL,No,Yes,No,No,No,No,Month-to-month,No,Mailed check,49,104,No
+Kuheli 427-16327,Female,0,No,No,1,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,75,75,Yes
+Kuheli 428-17388,Female,0,No,Yes,39,No,Maryville,DSL,No,No,Yes,No,No,No,Month-to-month,No,Credit card (automatic),30,1131,Yes
+Kuheli 429-18058,Male,0,No,No,63,Yes,Yes,DSL,Yes,Yes,Yes,Yes,No,No,One year,No,Electronic check,72,4576,No
+Kuheli 430-17403,Female,0,Yes,No,71,Yes,Yes,DSL,No,No,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),80,5662,No
+Kuheli 431-18927,Female,0,No,No,2,Yes,No,DSL,No,Yes,No,No,No,No,Month-to-month,Yes,Credit card (automatic),49,91,Yes
+Kuheli 432-18244,Male,0,No,No,62,Yes,No,DSL,Yes,Yes,No,No,Yes,Yes,One year,Yes,Credit card (automatic),74,4698,No
+Kuheli 433-17038,Male,0,No,No,22,Yes,Yes,Fiber optic,Yes,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,101,2095,Yes
+Kuheli 434-16336,Female,0,No,No,9,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Electronic check,45,416,Yes
+Kuheli 435-19794,Male,0,No,No,44,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Credit card (automatic),69,2959,No
+Kuheli 436-18207,Female,0,Yes,No,44,Yes,No,DSL,Yes,Yes,Yes,No,No,No,One year,Yes,Mailed check,62,2722,No
+Kuheli 437-19121,Female,0,No,Yes,51,No,Maryville,DSL,Yes,No,Yes,Yes,Yes,Yes,One year,No,Bank transfer (automatic),60,3077,No
+Kuheli 438-16986,Male,0,Yes,Yes,54,Yes,Yes,DSL,Yes,Yes,No,Yes,No,No,Two year,Yes,Credit card (automatic),66,3567,No
+Kuheli 439-19380,Female,0,No,No,57,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,No,No,Month-to-month,Yes,Bank transfer (automatic),88,4885,No
+Kuheli 440-15797,Female,0,Yes,Yes,72,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Bank transfer (automatic),20,1463,No
+Kuheli 441-16062,Male,0,No,No,9,Yes,No,DSL,Yes,No,Yes,Yes,No,Yes,Month-to-month,Yes,Bank transfer (automatic),68,577,No
+Kuheli 442-15783,Male,0,Yes,No,72,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,108,7841,No
+Kuheli 443-17887,Male,0,Yes,Yes,30,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,21,712,No
+Kuheli 444-19337,Female,0,No,No,10,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,45,429,No
+Kuheli 445-17006,Male,0,No,No,12,No,Maryville,DSL,No,Yes,No,Yes,No,No,Month-to-month,No,Mailed check,34,442,No
+Kuheli 446-17002,Female,0,No,No,18,Yes,Yes,DSL,Yes,No,Yes,No,No,No,Month-to-month,Yes,Mailed check,61,1156,No
+Kuheli 447-15825,Female,0,No,No,12,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,87,1067,No
+Kuheli 448-19486,Female,1,Yes,No,5,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,74,335,Yes
+Kuheli 449-18418,Female,1,Yes,No,21,Yes,Yes,DSL,No,Yes,Yes,No,No,Yes,One year,No,Bank transfer (automatic),72,1497,No
+Kuheli 450-15937,Female,0,No,No,14,Yes,No,DSL,Yes,No,No,No,No,No,Month-to-month,No,Bank transfer (automatic),50,710,No
+Kuheli 451-18264,Male,0,No,No,9,No,Maryville,DSL,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,45,419,Yes
+Kuheli 452-17676,Female,0,No,Yes,49,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),20,1025,No
+Kuheli 453-15144,Male,0,Yes,Yes,18,No,Maryville,DSL,No,Yes,Yes,No,Yes,No,One year,No,Credit card (automatic),46,812,No
+Kuheli 454-18437,Male,0,No,No,1,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,75,75,Yes
+Kuheli 455-18036,Male,0,No,No,23,Yes,No,Fiber optic,Yes,No,Yes,No,Yes,Yes,One year,Yes,Credit card (automatic),100,2293,No
+Kuheli 456-16118,Male,0,Yes,Yes,26,Yes,Yes,DSL,No,No,Yes,Yes,Yes,Yes,One year,Yes,Credit card (automatic),82,2083,No
+Kuheli 457-15297,Male,1,No,No,21,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,104,2272,No
+Kuheli 458-15298,Female,0,No,No,2,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,46,106,No
+Kuheli 459-19250,Male,0,Yes,No,48,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,19,855,No
+Kuheli 460-15838,Male,0,No,No,26,Yes,No,DSL,Yes,No,No,Yes,Yes,Yes,One year,No,Bank transfer (automatic),75,1908,No
+Kuheli 461-19799,Male,0,No,Yes,1,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,21,21,No
+Kuheli 462-19556,Female,0,Yes,No,54,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,One year,Yes,Mailed check,115,6050,No
+Kuheli 463-16921,Male,0,Yes,No,45,Yes,No,DSL,Yes,No,Yes,No,No,No,Two year,No,Credit card (automatic),53,2296,No
+Kuheli 464-15233,Male,0,No,No,37,No,Maryville,DSL,No,No,No,No,Yes,No,Two year,No,Credit card (automatic),36,1317,No
+Kuheli 465-18673,Female,1,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,69,69,Yes
+Kuheli 466-15860,Female,0,No,No,1,Yes,No,Fiber optic,No,No,Yes,No,Yes,No,Month-to-month,Yes,Electronic check,85,85,Yes
+Kuheli 467-18303,Male,0,Yes,Yes,54,Yes,Yes,DSL,No,Yes,No,Yes,Yes,No,One year,Yes,Electronic check,71,3770,No
+Kuheli 468-18025,Male,0,Yes,Yes,72,Yes,No,DSL,Yes,No,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,81,5729,No
+Kuheli 469-15510,Female,1,Yes,No,42,Yes,No,Fiber optic,Yes,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),74,3229,Yes
+Kuheli 470-19663,Male,0,Yes,Yes,68,Yes,Yes,DSL,No,Yes,Yes,Yes,No,Yes,One year,Yes,Bank transfer (automatic),76,5294,Yes
+Kuheli 471-17694,Male,0,Yes,No,67,Yes,No,Fiber optic,Yes,Yes,No,No,Yes,Yes,One year,Yes,Credit card (automatic),101,6733,No
+Kuheli 472-16190,Female,0,Yes,Yes,3,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,19,55,No
+Kuheli 473-15758,Male,0,No,No,8,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,No,Month-to-month,Yes,Electronic check,94,774,Yes
+Kuheli 474-18449,Male,0,No,No,1,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,46,46,Yes
+Kuheli 475-16496,Male,0,No,No,44,No,Maryville,DSL,Yes,No,Yes,No,Yes,Yes,One year,Yes,Electronic check,54,2440,No
+Kuheli 476-18053,Female,0,Yes,Yes,71,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Bank transfer (automatic),21,1501,No
+Kuheli 477-19106,Male,1,No,No,32,Yes,Yes,Fiber optic,No,No,Yes,No,No,No,Month-to-month,Yes,Credit card (automatic),81,2619,No
+Kuheli 478-15336,Male,0,No,Yes,22,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Credit card (automatic),20,433,No
+Kuheli 479-18791,Female,0,No,Yes,9,Yes,No,DSL,No,No,No,Yes,Yes,Yes,Month-to-month,Yes,Credit card (automatic),69,571,No
+Kuheli 480-16058,Male,0,No,No,19,No,Maryville,DSL,No,No,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),25,468,No
+Kuheli 481-19166,Female,0,Yes,Yes,70,Yes,No,DSL,Yes,Yes,Yes,Yes,No,Yes,One year,No,Credit card (automatic),74,5222,No
+Kuheli 482-16677,Female,0,Yes,No,64,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,26,1715,No
+Kuheli 483-16783,Male,0,Yes,No,41,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,80,3439,No
+Kuheli 484-17142,Male,0,No,No,1,Yes,Yes,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,50,50,No
+Kuheli 485-16053,Female,0,No,No,3,No,Maryville,DSL,Yes,No,No,Yes,No,No,Month-to-month,No,Mailed check,34,139,Yes
+Kuheli 486-19675,Female,0,Yes,Yes,9,Yes,No,DSL,Yes,No,No,No,No,No,One year,No,Mailed check,49,422,No
+Kuheli 487-16802,Female,0,No,No,3,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Mailed check,20,71,No
+Kuheli 488-19249,Female,0,No,No,63,Yes,No,Fiber optic,No,No,Yes,Yes,Yes,No,One year,Yes,Credit card (automatic),90,5817,No
+Kuheli 489-16995,Male,0,No,Yes,27,Yes,Yes,Fiber optic,No,No,No,Yes,No,No,Month-to-month,Yes,Electronic check,80,2181,Yes
+Kuheli 490-18806,Male,0,No,No,7,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,No,Month-to-month,Yes,Electronic check,90,593,Yes
+Kuheli 491-17290,Female,1,No,No,13,Yes,Yes,Fiber optic,Yes,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,101,1308,Yes
+Kuheli 492-19477,Male,1,Yes,No,29,Yes,Yes,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,52,1442,No
+Kuheli 493-19855,Male,0,No,No,64,Yes,Yes,Fiber optic,Yes,Yes,No,No,No,No,One year,Yes,Credit card (automatic),84,5289,No
+Kuheli 494-17391,Male,1,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70,70,Yes
+Kuheli 495-16588,Male,0,No,No,3,Yes,No,DSL,No,No,No,No,Yes,No,Month-to-month,No,Credit card (automatic),53,189,Yes
+Kuheli 496-15152,Male,0,No,No,7,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Bank transfer (automatic),69,489,No
+Kuheli 497-16316,Male,0,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,69,69,Yes
+Kuheli 498-12972,Female,0,No,No,513,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),1209,403,Yes
+Kuheli 499-18625,Male,0,No,Yes,1,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,20,20,No
+Kuheli 500-16323,Female,0,No,No,1,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,21,21,No
+Kuheli 501-19700,Male,0,Yes,Yes,40,Yes,Yes,DSL,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,75,3016,No
+Kuheli 502-19501,Female,0,Yes,No,70,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Bank transfer (automatic),20,1398,No
+Kuheli 503-18693,Female,0,No,No,28,Yes,No,DSL,No,No,Yes,No,Yes,No,Month-to-month,Yes,Bank transfer (automatic),60,1646,No
+Kuheli 504-16342,Male,1,Yes,No,49,Yes,No,DSL,No,Yes,No,No,No,No,Two year,No,Mailed check,50,2398,No
+Kuheli 505-16789,Female,0,No,No,1,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,94,94,Yes
+Kuheli 506-18085,Female,0,No,No,65,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,No,One year,Yes,Electronic check,96,6154,No
+Kuheli 507-17843,Female,0,Yes,No,30,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,85,2624,Yes
+Kuheli 508-17938,Male,0,Yes,Yes,71,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Electronic check,90,6325,No
+Kuheli 509-18609,Female,1,Yes,No,34,Yes,Yes,Fiber optic,No,Yes,Yes,No,No,Yes,Month-to-month,Yes,Electronic check,94,3218,Yes
+Kuheli 510-16542,Female,0,No,No,67,Yes,Yes,DSL,Yes,No,Yes,Yes,Yes,Yes,Two year,Yes,Mailed check,85,5714,No
+Kuheli 511-19464,Female,0,No,No,1,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,85,85,Yes
+Kuheli 512-15852,Male,0,Yes,No,35,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,75,2576,Yes
+Kuheli 513-15287,Male,0,No,No,32,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Mailed check,20,608,No
+Kuheli 514-19004,Male,0,No,No,13,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),20,268,No
+Kuheli 515-19155,Female,0,No,No,13,No,Maryville,DSL,Yes,No,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),31,394,No
+Kuheli 516-19291,Male,1,No,No,27,Yes,Yes,Fiber optic,No,Yes,No,Yes,Yes,Yes,One year,Yes,Bank transfer (automatic),105,2964,No
+Kuheli 517-18995,Female,0,No,No,37,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,20,784,No
+Kuheli 518-16105,Female,1,No,No,7,Yes,No,DSL,No,Yes,No,No,No,No,Month-to-month,Yes,Mailed check,51,419,No
+Kuheli 519-16427,Female,0,No,No,35,Yes,No,DSL,No,No,Yes,No,No,Yes,Month-to-month,Yes,Electronic check,62,2096,No
+Kuheli 520-19575,Male,0,Yes,Yes,44,Yes,Yes,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Mailed check,26,1111,No
+Kuheli 521-15600,Male,0,Yes,Yes,70,Yes,Yes,DSL,Yes,No,Yes,No,Yes,No,Two year,No,Credit card (automatic),69,4859,No
+Kuheli 522-17678,Male,0,Yes,Yes,63,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),89,5598,No
+Kuheli 523-16299,Female,0,Yes,No,30,Yes,No,DSL,No,Yes,Yes,Yes,No,Yes,One year,No,Bank transfer (automatic),70,2199,No
+Kuheli 524-19927,Female,0,Yes,Yes,52,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,Yes,Electronic check,20,1091,No
+Kuheli 525-18383,Female,0,Yes,No,49,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,Yes,Bank transfer (automatic),20,923,No
+Kuheli 526-16551,Male,0,No,No,39,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,One year,No,Credit card (automatic),81,3214,No
+Kuheli 527-16755,Female,0,No,No,19,No,Maryville,DSL,No,Yes,No,No,No,Yes,Month-to-month,Yes,Electronic check,40,710,No
+Kuheli 528-16087,Male,0,No,No,18,Yes,No,DSL,Yes,No,No,No,No,No,Month-to-month,No,Electronic check,49,875,Yes
+Kuheli 529-16071,Male,0,Yes,No,3,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Credit card (automatic),21,51,Yes
+Kuheli 530-18741,Female,1,No,No,45,No,Maryville,DSL,No,No,No,No,No,Yes,One year,No,Electronic check,34,1597,No
+Kuheli 531-16600,Female,0,Yes,Yes,61,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,No,Yes,One year,Yes,Credit card (automatic),101,6019,No
+Kuheli 532-18961,Female,0,No,No,13,No,Maryville,DSL,No,No,Yes,No,Yes,Yes,Month-to-month,No,Electronic check,49,649,No
+Kuheli 533-15538,Male,0,Yes,No,18,Yes,No,Fiber optic,No,No,Yes,Yes,No,No,Month-to-month,No,Electronic check,78,1469,No
+Kuheli 534-15136,Female,0,No,No,2,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,71,138,Yes
+Kuheli 535-17427,Female,0,Yes,Yes,42,Yes,No,Fiber optic,No,No,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,100,4304,No
+Kuheli 536-19978,Male,1,No,No,1,No,Maryville,DSL,No,No,Yes,No,No,Yes,Month-to-month,Yes,Electronic check,40,40,Yes
+Kuheli 537-16951,Female,0,Yes,No,32,Yes,No,Fiber optic,No,Yes,No,No,No,Yes,Month-to-month,No,Bank transfer (automatic),84,2586,Yes
+Kuheli 538-15311,Male,0,Yes,No,22,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),95,1915,Yes
+Kuheli 539-15220,Male,0,No,Yes,62,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Mailed check,24,1413,No
+Kuheli 540-17094,Male,0,No,No,25,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Mailed check,71,1767,Yes
+Kuheli 541-16976,Female,0,No,No,2,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,20,38,No
+Kuheli 542-19872,Female,1,No,No,27,Yes,Yes,Fiber optic,No,No,Yes,No,No,No,Month-to-month,Yes,Electronic check,78,2136,Yes
+Kuheli 543-16369,Male,0,Yes,Yes,17,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Mailed check,25,413,No
+Kuheli 544-15650,Female,0,No,No,1,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Mailed check,19,19,Yes
+Kuheli 545-19485,Female,0,No,No,56,Yes,Yes,Fiber optic,No,Yes,No,Yes,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),105,5917,No
+Kuheli 546-17050,Male,1,Yes,No,41,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,100,4259,Yes
+Kuheli 547-17293,Female,0,Yes,No,72,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Bank transfer (automatic),26,1887,No
+Kuheli 548-15873,Male,0,Yes,No,43,Yes,No,Fiber optic,Yes,Yes,Yes,No,No,No,Month-to-month,Yes,Credit card (automatic),86,3552,No
+Kuheli 549-15018,Female,1,Yes,No,22,Yes,Yes,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Bank transfer (automatic),26,549,No
+Kuheli 550-18903,Male,0,No,No,1,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,81,81,No
+Kuheli 551-15528,Male,0,No,No,7,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),45,323,No
+Kuheli 552-18213,Male,0,Yes,Yes,68,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),92,6393,No
+Kuheli 553-16547,Male,1,Yes,No,65,Yes,No,Fiber optic,No,No,No,No,No,No,One year,Yes,Bank transfer (automatic),71,4555,No
+Kuheli 554-15191,Female,0,No,Yes,34,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),116,3947,No
+Kuheli 555-19889,Male,0,Yes,Yes,72,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),19,1363,No
+Kuheli 556-19213,Female,1,No,No,46,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,One year,Yes,Electronic check,110,4875,Yes
+Kuheli 557-15040,Female,0,Yes,No,59,Yes,Yes,Fiber optic,Yes,Yes,No,No,Yes,No,Month-to-month,Yes,Electronic check,95,5598,No
+Kuheli 558-19450,Male,1,Yes,No,50,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,No,One year,Yes,Bank transfer (automatic),102,5266,No
+Kuheli 559-16473,Female,1,Yes,No,50,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,No,Month-to-month,Yes,Electronic check,95,4889,Yes
+Kuheli 560-19188,Male,0,No,No,58,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,One year,Yes,Bank transfer (automatic),103,6018,Yes
+Kuheli 561-17508,Male,0,No,Yes,39,Yes,Yes,Fiber optic,No,No,No,Yes,Yes,Yes,Two year,No,Mailed check,101,3895,No
+Kuheli 562-19711,Male,0,Yes,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Electronic check,70,70,Yes
+Kuheli 563-16925,Female,0,No,No,52,No,Maryville,DSL,Yes,Yes,Yes,No,Yes,Yes,Two year,Yes,Bank transfer (automatic),59,3039,No
+Kuheli 564-15043,Male,0,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Mailed check,69,69,Yes
+Kuheli 565-15036,Female,0,Yes,Yes,17,Yes,No,DSL,Yes,Yes,No,No,Yes,Yes,Month-to-month,No,Mailed check,75,1216,No
+Kuheli 566-15917,Female,0,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70,70,Yes
+Kuheli 567-19760,Female,1,No,No,11,Yes,No,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,95,1120,Yes
+Kuheli 568-16579,Male,0,Yes,Yes,69,Yes,No,Fiber optic,No,Yes,No,Yes,Yes,No,Two year,Yes,Mailed check,92,6481,No
+Kuheli 569-17634,Male,0,Yes,No,14,Yes,Yes,Fiber optic,No,Yes,Yes,No,No,No,Month-to-month,Yes,Electronic check,83,1185,No
+Kuheli 570-15254,Male,1,No,No,64,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Bank transfer (automatic),20,1198,No
+Kuheli 571-19102,Male,0,Yes,No,71,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),116,8311,No
+Kuheli 572-14999,Female,0,Yes,Yes,16,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,20,302,No
+Kuheli 573-15401,Female,0,No,No,6,Yes,No,Fiber optic,No,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Mailed check,100,548,Yes
+Kuheli 574-18493,Male,1,No,No,1,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,75,75,Yes
+Kuheli 575-17885,Male,0,Yes,Yes,45,Yes,Yes,Fiber optic,No,Yes,Yes,No,No,Yes,One year,Yes,Credit card (automatic),95,4369,No
+Kuheli 576-19020,Male,1,Yes,No,62,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,One year,Yes,Electronic check,104,6383,Yes
+Kuheli 577-16745,Female,0,Yes,Yes,36,Yes,Yes,Fiber optic,Yes,No,Yes,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),105,3685,No
+Kuheli 578-17992,Male,0,No,No,5,Yes,Yes,DSL,No,No,No,No,No,No,Month-to-month,No,Electronic check,47,223,Yes
+Kuheli 579-19284,Male,0,Yes,No,72,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,25,1711,No
+Kuheli 580-16917,Male,0,No,No,4,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,No,Electronic check,78,299,Yes
+Kuheli 581-18327,Male,0,Yes,Yes,66,Yes,No,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,One year,Yes,Bank transfer (automatic),103,7031,No
+Kuheli 582-17736,Female,0,No,No,2,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,80,146,Yes
+Kuheli 583-18906,Male,0,Yes,No,70,Yes,No,DSL,Yes,Yes,Yes,Yes,No,No,Two year,No,Credit card (automatic),65,4523,No
+Kuheli 584-16262,Female,0,No,No,8,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,Yes,Bank transfer (automatic),20,141,No
+Kuheli 585-19406,Male,0,Yes,Yes,63,Yes,Yes,DSL,Yes,Yes,Yes,No,Yes,Yes,Two year,No,Credit card (automatic),84,5435,No
+Kuheli 586-15902,Female,0,No,No,20,Yes,No,Fiber optic,Yes,No,Yes,No,Yes,No,Month-to-month,Yes,Bank transfer (automatic),89,1871,No
+Kuheli 587-18946,Female,0,No,No,40,Yes,Yes,DSL,No,No,Yes,Yes,Yes,Yes,One year,Yes,Mailed check,81,3209,No
+Kuheli 588-16289,Male,0,No,No,1,Yes,Yes,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,51,51,No
+Kuheli 589-17640,Female,0,Yes,No,55,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Electronic check,20,1140,No
+Kuheli 590-15009,Female,0,No,Yes,7,No,Maryville,DSL,Yes,No,No,No,No,No,Month-to-month,No,Mailed check,30,202,No
+Kuheli 591-18953,Female,0,Yes,Yes,43,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),99,4210,No
+Kuheli 592-18034,Male,0,No,No,66,Yes,No,DSL,Yes,Yes,No,No,No,No,One year,Yes,Mailed check,55,3466,No
+Kuheli 593-15857,Female,1,No,No,35,No,Maryville,DSL,No,No,Yes,No,Yes,No,Month-to-month,Yes,Electronic check,40,1435,No
+Kuheli 594-18756,Female,0,Yes,No,21,No,Maryville,DSL,Yes,No,No,No,No,No,Month-to-month,No,Electronic check,29,629,No
+Kuheli 595-16267,Male,0,No,No,2,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70,147,No
+Kuheli 596-19168,Female,0,Yes,No,50,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,Yes,Yes,One year,No,Electronic check,109,5611,Yes
+Kuheli 597-15568,Female,0,Yes,Yes,32,Yes,No,DSL,Yes,Yes,No,Yes,No,No,Month-to-month,No,Bank transfer (automatic),61,1865,No
+Kuheli 598-19059,Female,0,No,No,15,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,20,320,No
+Kuheli 599-19860,Male,0,No,Yes,57,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Mailed check,20,1171,No
+Kuheli 600-16441,Female,1,No,No,33,No,Maryville,DSL,Yes,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),59,1885,No
+Kuheli 601-16319,Male,0,No,No,1,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Mailed check,20,20,Yes
+Kuheli 602-17380,Male,0,Yes,Yes,25,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Electronic check,20,505,No
+Kuheli 603-18368,Male,1,Yes,No,38,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,103,4009,No
+Kuheli 604-15828,Male,0,Yes,No,72,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),115,8349,No
+Kuheli 605-17486,Female,0,Yes,No,23,Yes,No,DSL,Yes,No,Yes,Yes,No,Yes,One year,Yes,Bank transfer (automatic),69,1689,No
+Kuheli 606-19462,Female,0,Yes,No,63,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),82,5029,No
+Kuheli 607-15492,Male,1,Yes,No,72,Yes,Yes,DSL,No,Yes,Yes,Yes,Yes,No,Two year,No,Credit card (automatic),77,5396,No
+Kuheli 608-18087,Female,0,Yes,Yes,72,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,No,Two year,No,Credit card (automatic),106,7657,No
+Kuheli 609-18562,Female,0,No,No,2,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,No,Month-to-month,Yes,Electronic check,91,194,Yes
+Kuheli 610-16418,Female,0,No,Yes,9,Yes,No,DSL,No,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Mailed check,73,651,Yes
+Kuheli 611-17824,Female,0,No,No,19,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Credit card (automatic),20,384,No
+Kuheli 612-18350,Male,1,Yes,Yes,60,Yes,Yes,Fiber optic,Yes,No,No,No,No,No,Month-to-month,Yes,Electronic check,81,4859,No
+Kuheli 613-16985,Female,0,No,No,29,Yes,Yes,DSL,No,No,No,No,Yes,Yes,One year,Yes,Credit card (automatic),71,2080,No
+Kuheli 614-15080,Male,0,Yes,Yes,51,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),20,1087,No
+Kuheli 615-15359,Male,1,No,No,26,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,94,2404,No
+Kuheli 616-17949,Female,0,Yes,No,69,Yes,Yes,Fiber optic,No,Yes,Yes,No,No,No,Month-to-month,Yes,Bank transfer (automatic),85,5869,No
+Kuheli 617-17844,Female,0,No,Yes,24,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,20,498,No
+Kuheli 618-18839,Female,1,Yes,No,3,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,80,224,Yes
+Kuheli 619-19129,Male,0,No,Yes,3,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Mailed check,26,121,No
+Kuheli 620-17495,Male,0,Yes,Yes,44,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Bank transfer (automatic),21,926,No
+Kuheli 621-17504,Male,0,No,No,35,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Credit card (automatic),75,2636,Yes
+Kuheli 622-18726,Male,0,Yes,Yes,5,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,19,86,No
+Kuheli 623-16621,Male,0,Yes,No,68,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),25,1629,No
+Kuheli 624-17316,Male,0,No,No,4,Yes,Yes,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,50,207,Yes
+Kuheli 625-19652,Female,0,No,No,2,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,90,168,Yes
+Kuheli 626-18163,Female,0,Yes,No,1,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,45,45,No
+Kuheli 627-18478,Female,0,Yes,No,3,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Mailed check,20,55,No
+Kuheli 628-17803,Female,0,Yes,No,28,Yes,Yes,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Mailed check,26,672,No
+Kuheli 629-15581,Male,0,No,Yes,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,70,70,Yes
+Kuheli 630-15305,Male,0,No,Yes,52,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),26,1335,No
+Kuheli 631-16027,Female,0,No,No,25,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),25,692,Yes
+Kuheli 632-16987,Female,0,Yes,Yes,9,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,20,211,No
+Kuheli 633-17147,Female,0,Yes,Yes,64,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Mailed check,91,5817,No
+Kuheli 634-17345,Female,0,Yes,Yes,70,Yes,No,DSL,Yes,No,No,Yes,Yes,Yes,Two year,No,Credit card (automatic),75,5438,No
+Kuheli 635-16248,Female,1,Yes,No,12,Yes,No,DSL,Yes,No,Yes,Yes,Yes,Yes,One year,Yes,Electronic check,79,944,No
+Kuheli 636-17607,Male,0,No,No,8,Yes,Yes,DSL,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,59,437,No
+Kuheli 637-19640,Male,1,Yes,No,27,No,Maryville,DSL,Yes,No,No,No,No,No,Month-to-month,No,Credit card (automatic),31,805,Yes
+Kuheli 638-19266,Male,0,Yes,Yes,25,Yes,No,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,76,1901,No
+Kuheli 639-15398,Male,0,Yes,Yes,56,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Mailed check,116,6568,No
+Kuheli 640-18636,Male,0,No,No,4,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70,238,Yes
+Kuheli 641-18928,Female,0,No,No,2,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Bank transfer (automatic),70,145,Yes
+Kuheli 642-15843,Female,1,No,No,72,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),117,8436,No
+Kuheli 643-18291,Female,1,No,No,3,Yes,No,Fiber optic,No,No,Yes,No,No,No,Month-to-month,No,Electronic check,74,196,No
+Kuheli 644-18388,Male,0,Yes,Yes,51,Yes,No,DSL,Yes,Yes,No,Yes,No,No,Two year,No,Credit card (automatic),61,3121,No
+Kuheli 645-15465,Female,0,Yes,No,71,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Two year,Yes,Bank transfer (automatic),105,7555,No
+Kuheli 646-19173,Female,0,Yes,Yes,16,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,No,Month-to-month,Yes,Credit card (automatic),89,1430,Yes
+Kuheli 647-18548,Male,0,Yes,Yes,8,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Mailed check,19,153,No
+Kuheli 648-17979,Male,0,Yes,No,67,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,One year,No,Electronic check,104,7041,Yes
+Kuheli 649-19828,Male,0,Yes,No,43,Yes,No,Fiber optic,Yes,No,Yes,Yes,No,No,One year,Yes,Bank transfer (automatic),84,3539,No
+Kuheli 650-18420,Female,0,No,No,7,Yes,No,DSL,No,No,No,Yes,Yes,No,Month-to-month,Yes,Mailed check,60,416,Yes
+Kuheli 651-17718,Female,1,No,No,8,Yes,Yes,Fiber optic,No,No,No,Yes,Yes,Yes,Month-to-month,Yes,Credit card (automatic),100,909,No
+Kuheli 652-17857,Male,0,Yes,Yes,16,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Electronic check,20,341,No
+Kuheli 653-18656,Female,0,No,No,8,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,20,142,No
+Kuheli 654-16675,Female,0,No,Yes,28,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,20,535,No
+Kuheli 655-19179,Male,0,Yes,No,70,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,No,No,Two year,Yes,Credit card (automatic),88,5986,No
+Kuheli 656-18551,Male,0,No,Yes,4,Yes,Yes,Fiber optic,No,No,No,Yes,No,No,Month-to-month,No,Credit card (automatic),81,332,Yes
+Kuheli 657-15092,Female,0,Yes,Yes,72,Yes,Yes,Fiber optic,Yes,Yes,No,No,Yes,No,Two year,Yes,Bank transfer (automatic),96,6954,No
+Kuheli 658-16694,Male,1,Yes,No,69,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,110,7634,No
+Kuheli 659-17238,Male,0,No,No,26,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,Yes,Credit card (automatic),21,596,No
+Kuheli 660-19096,Male,0,No,No,17,Yes,No,Fiber optic,Yes,No,No,No,Yes,Yes,Month-to-month,No,Electronic check,94,1626,Yes
+Kuheli 661-17112,Female,0,No,No,60,Yes,No,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),105,6237,No
+Kuheli 662-15103,Female,1,Yes,No,44,Yes,No,Fiber optic,Yes,Yes,No,Yes,No,No,Month-to-month,Yes,Electronic check,85,3671,No
+Kuheli 663-16114,Female,0,Yes,No,18,Yes,Yes,Fiber optic,No,No,No,Yes,Yes,No,Month-to-month,Yes,Electronic check,89,1595,No
+Kuheli 664-19681,Female,0,Yes,Yes,38,Yes,No,DSL,Yes,Yes,No,Yes,Yes,Yes,One year,No,Credit card (automatic),80,3059,Yes
+Kuheli 665-15278,Male,1,No,No,64,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,Yes,One year,No,Electronic check,102,6688,No
+Kuheli 666-16151,Male,0,No,No,10,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Credit card (automatic),20,199,No
+Kuheli 667-15861,Female,0,Yes,Yes,12,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Credit card (automatic),20,232,No
+Kuheli 668-18809,Male,0,No,No,3,Yes,No,Fiber optic,No,No,Yes,No,No,Yes,Month-to-month,No,Credit card (automatic),86,257,No
+Kuheli 669-15169,Female,0,No,No,12,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),45,524,No
+Kuheli 670-19122,Female,0,No,No,15,Yes,No,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,Month-to-month,No,Electronic check,105,1583,Yes
+Kuheli 671-16824,Male,0,Yes,No,58,No,Maryville,DSL,No,No,No,No,Yes,Yes,One year,Yes,Credit card (automatic),45,2689,No
+Kuheli 672-18978,Female,0,Yes,Yes,39,Yes,No,DSL,Yes,No,No,No,No,No,Month-to-month,No,Credit card (automatic),51,2066,No
+Kuheli 673-18302,Male,0,No,No,3,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,85,265,Yes
+Kuheli 674-16207,Male,0,No,No,6,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,69,435,No
+Kuheli 675-17675,Female,0,No,No,29,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),99,2933,Yes
+Kuheli 676-12975,Female,1,Yes,No,666,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,19437,6479,No
+Kuheli 677-16715,Female,0,Yes,Yes,69,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,Yes,Credit card (automatic),20,1443,No
+Kuheli 678-16702,Female,0,No,No,24,Yes,No,DSL,No,No,Yes,No,No,No,Month-to-month,Yes,Credit card (automatic),49,1233,No
+Kuheli 679-17748,Female,0,No,No,15,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Credit card (automatic),20,302,No
+Kuheli 680-18150,Female,0,No,No,38,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Mailed check,19,756,No
+Kuheli 681-16635,Male,0,Yes,No,57,No,Maryville,DSL,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),58,3266,No
+Kuheli 682-16170,Female,0,Yes,No,65,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Bank transfer (automatic),19,1320,No
+Kuheli 683-15413,Female,1,No,No,1,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,85,85,Yes
+Kuheli 684-15702,Female,0,Yes,Yes,35,Yes,Yes,DSL,Yes,No,Yes,Yes,Yes,No,Month-to-month,No,Electronic check,72,2569,Yes
+Kuheli 685-16094,Male,0,Yes,Yes,34,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,21,636,No
+Kuheli 686-15203,Female,0,Yes,No,53,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Bank transfer (automatic),21,1022,Yes
+Kuheli 687-19831,Male,0,Yes,No,72,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),89,6254,No
+Kuheli 688-16642,Female,0,Yes,Yes,4,Yes,Yes,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,51,240,Yes
+Kuheli 689-19428,Female,0,Yes,Yes,60,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Credit card (automatic),19,1103,No
+Kuheli 690-15481,Female,1,Yes,No,11,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,100,1131,Yes
+Kuheli 691-16901,Male,0,No,Yes,2,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,20,43,No
+Kuheli 692-15472,Male,0,No,No,13,Yes,No,Fiber optic,Yes,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),74,957,No
+Kuheli 693-16574,Male,0,No,No,10,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,90,863,Yes
+Kuheli 694-16883,Female,0,No,No,13,Yes,Yes,Fiber optic,No,Yes,Yes,No,No,No,Month-to-month,Yes,Electronic check,84,1059,Yes
+Kuheli 695-17921,Female,0,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Electronic check,71,71,Yes
+Kuheli 696-15477,Female,0,Yes,No,46,No,Maryville,DSL,Yes,Yes,No,No,Yes,No,Month-to-month,No,Electronic check,46,2062,No
+Kuheli 697-16116,Male,0,No,No,4,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),45,176,No
+Kuheli 698-18346,Male,0,Yes,No,17,No,Maryville,DSL,Yes,No,Yes,No,No,No,Month-to-month,No,Mailed check,34,593,No
+Kuheli 699-17021,Male,0,No,No,1,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Mailed check,20,20,No
+Kuheli 700-16458,Female,0,Yes,Yes,72,Yes,No,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),109,7726,No
+Kuheli 701-17080,Male,1,Yes,No,8,No,Maryville,DSL,No,Yes,Yes,No,No,Yes,Month-to-month,Yes,Mailed check,43,371,No
+Kuheli 702-17475,Female,0,Yes,Yes,47,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),20,873,No
+Kuheli 703-17326,Male,0,No,No,27,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Bank transfer (automatic),20,563,No
+Kuheli 704-16224,Male,1,Yes,Yes,52,Yes,Yes,DSL,No,Yes,Yes,No,Yes,Yes,One year,Yes,Electronic check,81,4080,No
+Kuheli 705-15886,Female,0,No,No,59,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,No,Yes,Month-to-month,Yes,Bank transfer (automatic),99,5624,No
+Kuheli 706-18642,Female,0,No,No,9,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),75,634,No
+Kuheli 707-16378,Male,1,Yes,No,33,No,Maryville,DSL,No,Yes,Yes,Yes,Yes,No,Month-to-month,Yes,Electronic check,50,1751,No
+Kuheli 708-17341,Female,0,No,No,29,Yes,Yes,DSL,Yes,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,66,1912,No
+Kuheli 709-18190,Female,0,No,No,23,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,79,1677,Yes
+Kuheli 710-18680,Male,0,No,No,8,Yes,No,DSL,Yes,No,Yes,No,No,Yes,Month-to-month,Yes,Electronic check,67,579,No
+Kuheli 711-17498,Male,0,Yes,Yes,50,Yes,No,DSL,Yes,No,No,Yes,Yes,Yes,One year,No,Electronic check,76,4026,No
+Kuheli 712-16904,Female,0,No,No,39,Yes,No,DSL,No,Yes,No,No,Yes,No,One year,Yes,Credit card (automatic),59,2225,No
+Kuheli 713-18745,Female,0,No,No,7,Yes,No,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,79,523,Yes
+Kuheli 714-17471,Female,0,No,No,9,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,83,803,Yes
+Kuheli 715-19236,Male,0,Yes,No,3,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70,209,Yes
+Kuheli 716-19170,Male,0,Yes,Yes,60,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,No,One year,No,Electronic check,91,5453,Yes
+Kuheli 717-16486,Male,1,No,No,51,Yes,Yes,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Bank transfer (automatic),25,1261,No
+Kuheli 718-19753,Male,1,No,No,4,Yes,No,Fiber optic,Yes,No,No,No,No,No,Month-to-month,No,Electronic check,75,273,No
+Kuheli 719-15090,Female,1,No,No,28,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,106,3153,Yes
+Kuheli 720-16301,Female,0,Yes,Yes,32,Yes,Yes,Fiber optic,Yes,No,No,No,Yes,No,Month-to-month,No,Electronic check,90,2902,No
+Kuheli 721-16344,Female,0,Yes,No,28,Yes,No,Fiber optic,No,Yes,Yes,No,No,Yes,Month-to-month,No,Credit card (automatic),90,2434,No
+Kuheli 722-15495,Female,0,No,No,17,Yes,Yes,Fiber optic,Yes,Yes,No,No,Yes,No,Month-to-month,Yes,Electronic check,94,1618,Yes
+Kuheli 723-19260,Male,1,No,No,42,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),79,3344,No
+Kuheli 724-17122,Male,0,No,No,19,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,Yes,Credit card (automatic),20,387,No
+Kuheli 725-17630,Female,0,Yes,No,72,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),117,8530,No
+Kuheli 726-19141,Male,0,No,No,1,Yes,No,DSL,No,Yes,No,No,No,No,Month-to-month,No,Electronic check,51,51,Yes
+Kuheli 727-19559,Male,0,No,No,1,Yes,No,DSL,No,No,Yes,Yes,No,No,Month-to-month,No,Mailed check,55,55,No
+Kuheli 728-16256,Female,0,No,No,41,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,No,Month-to-month,Yes,Electronic check,107,4282,No
+Kuheli 729-18878,Male,0,No,No,20,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Credit card (automatic),71,1494,No
+Kuheli 730-18193,Male,0,Yes,Yes,72,Yes,Yes,DSL,Yes,Yes,Yes,No,No,No,Two year,No,Credit card (automatic),64,4720,No
+Kuheli 731-19306,Male,0,No,Yes,47,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Credit card (automatic),21,1013,No
+Kuheli 732-15469,Male,1,No,No,9,Yes,No,DSL,No,No,No,Yes,No,No,Month-to-month,No,Mailed check,49,448,No
+Kuheli 733-19948,Female,1,No,No,43,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,No,Month-to-month,Yes,Electronic check,90,3839,No
+Kuheli 734-16669,Female,0,Yes,No,18,Yes,No,DSL,No,No,No,Yes,No,No,Month-to-month,Yes,Mailed check,50,909,No
+Kuheli 735-18842,Female,0,No,No,53,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,19,1006,No
+Kuheli 736-16877,Female,1,No,No,16,Yes,No,DSL,No,No,No,Yes,Yes,No,Month-to-month,No,Electronic check,59,1024,Yes
+Kuheli 737-19417,Female,0,No,No,1,Yes,No,Fiber optic,Yes,No,No,No,No,No,Month-to-month,No,Mailed check,75,75,Yes
+Kuheli 738-15927,Female,0,No,No,16,No,Maryville,DSL,Yes,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,39,664,No
+Kuheli 739-16826,Male,0,No,Yes,25,Yes,No,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,96,2449,Yes
+Kuheli 740-19411,Male,0,Yes,Yes,5,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Mailed check,20,85,No
+Kuheli 741-16117,Male,0,Yes,No,71,Yes,Yes,DSL,Yes,Yes,No,Yes,No,No,Two year,No,Bank transfer (automatic),65,4682,No
+Kuheli 742-16678,Male,1,Yes,No,18,Yes,No,DSL,Yes,No,No,No,No,Yes,Month-to-month,Yes,Credit card (automatic),59,1011,No
+Kuheli 743-15777,Male,0,No,No,1,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Credit card (automatic),19,19,No
+Kuheli 744-17693,Male,0,Yes,Yes,34,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),98,3410,No
+Kuheli 745-19615,Male,0,No,No,1,Yes,Yes,Fiber optic,No,Yes,No,No,No,Yes,Month-to-month,Yes,Credit card (automatic),91,91,Yes
+Kuheli 746-19899,Female,1,Yes,No,25,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,99,2515,Yes
+Kuheli 747-18701,Female,0,No,No,5,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Electronic check,76,403,No
+Kuheli 748-19894,Male,0,Yes,No,68,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),110,7612,Yes
+Kuheli 749-18835,Female,0,No,No,12,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,No,Month-to-month,Yes,Bank transfer (automatic),90,1052,Yes
+Kuheli 750-18519,Female,0,No,No,44,No,Maryville,DSL,No,No,Yes,No,Yes,Yes,One year,Yes,Electronic check,49,2265,No
+Kuheli 751-17760,Female,0,No,No,1,Yes,No,Fiber optic,No,No,No,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,96,96,No
+Kuheli 752-16722,Female,0,No,No,4,Yes,No,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,79,317,Yes
+Kuheli 753-15094,Female,0,No,No,33,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,No,Electronic check,108,3646,No
+Kuheli 754-18268,Male,0,No,No,1,Yes,Yes,DSL,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,60,60,Yes
+Kuheli 755-16689,Female,0,No,No,25,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Credit card (automatic),20,528,No
+Kuheli 756-19151,Female,0,Yes,Yes,12,No,Maryville,DSL,Yes,No,No,Yes,No,No,One year,No,Credit card (automatic),33,445,No
+Kuheli 757-18902,Female,0,Yes,No,7,Yes,No,DSL,Yes,No,Yes,Yes,Yes,Yes,Month-to-month,No,Bank transfer (automatic),81,580,No
+Kuheli 758-19910,Female,0,Yes,Yes,46,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Mailed check,20,927,No
+Kuheli 759-15517,Male,0,Yes,No,42,No,Maryville,DSL,Yes,No,No,No,Yes,No,Month-to-month,Yes,Bank transfer (automatic),40,1626,No
+Kuheli 760-19535,Male,0,No,No,7,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,100,673,Yes
+Kuheli 761-17778,Male,0,Yes,No,72,Yes,No,DSL,Yes,Yes,No,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),79,5753,No
+Kuheli 762-18713,Male,1,Yes,No,7,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,90,677,Yes
+Kuheli 763-19226,Female,0,No,No,1,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,20,20,Yes
+Kuheli 764-16792,Female,0,No,No,6,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,20,109,No
+Kuheli 765-19595,Female,0,Yes,No,68,Yes,No,DSL,Yes,No,No,Yes,No,No,One year,No,Bank transfer (automatic),56,3849,No
+Kuheli 766-16249,Male,1,No,No,2,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,94,197,Yes
+Kuheli 767-16410,Male,0,Yes,No,9,Yes,Yes,DSL,No,Yes,Yes,No,No,Yes,Month-to-month,Yes,Credit card (automatic),69,654,No
+Kuheli 768-19626,Male,0,No,Yes,24,No,Maryville,DSL,Yes,No,No,Yes,No,No,Two year,No,Mailed check,36,831,No
+Kuheli 769-16909,Female,0,No,No,68,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),82,5647,No
+Kuheli 770-17325,Male,0,No,No,22,Yes,Yes,Fiber optic,Yes,No,No,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),101,2317,Yes
+Kuheli 771-16949,Female,0,No,No,3,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Electronic check,20,59,Yes
+Kuheli 772-18271,Male,0,No,No,31,Yes,Yes,DSL,No,Yes,No,Yes,Yes,No,Month-to-month,Yes,Electronic check,71,2168,No
+Kuheli 773-15277,Male,0,No,No,1,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,20,20,Yes
+Kuheli 774-16658,Female,1,No,No,5,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Credit card (automatic),83,446,Yes
+Kuheli 775-19387,Female,0,Yes,Yes,9,Yes,No,DSL,Yes,Yes,Yes,Yes,No,No,Month-to-month,No,Mailed check,65,663,Yes
+Kuheli 776-18391,Male,1,Yes,No,13,Yes,No,Fiber optic,No,Yes,No,Yes,No,Yes,Month-to-month,Yes,Bank transfer (automatic),89,1169,Yes
+Kuheli 777-16361,Male,0,No,No,9,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,20,179,Yes
+Kuheli 778-17822,Male,0,Yes,Yes,67,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Credit card (automatic),19,1284,No
+Kuheli 779-16391,Female,0,No,No,13,Yes,No,DSL,Yes,No,No,Yes,No,No,One year,No,Mailed check,55,743,No
+Kuheli 780-19642,Female,1,No,No,16,Yes,Yes,DSL,Yes,No,No,No,No,No,Month-to-month,Yes,Electronic check,54,889,No
+Kuheli 781-19579,Female,1,No,No,1,Yes,No,Fiber optic,No,No,Yes,No,No,No,Month-to-month,Yes,Bank transfer (automatic),75,75,Yes
+Kuheli 782-16004,Female,1,Yes,No,54,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,One year,Yes,Credit card (automatic),102,5373,Yes
+Kuheli 783-17090,Male,0,Yes,No,18,Yes,Yes,Fiber optic,Yes,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,99,1743,Yes
+Kuheli 784-19956,Female,0,Yes,Yes,17,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Mailed check,21,418,No
+Kuheli 785-19908,Male,0,Yes,Yes,30,Yes,No,Fiber optic,No,Yes,Yes,No,No,No,Month-to-month,No,Bank transfer (automatic),82,2570,No
+Kuheli 786-16831,Female,0,Yes,No,64,Yes,No,DSL,Yes,Yes,Yes,Yes,No,Yes,Two year,Yes,Mailed check,74,4760,No
+Kuheli 787-17289,Male,1,Yes,No,41,No,Maryville,DSL,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,54,2215,No
+Kuheli 788-17551,Male,0,No,No,7,Yes,No,Fiber optic,No,No,Yes,No,No,No,Month-to-month,Yes,Electronic check,75,491,No
+Kuheli 789-15923,Male,0,No,No,53,No,Maryville,DSL,Yes,Yes,No,No,No,Yes,Month-to-month,Yes,Bank transfer (automatic),46,2547,No
+Kuheli 790-16147,Female,0,Yes,Yes,46,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Mailed check,19,864,No
+Kuheli 791-15072,Male,0,Yes,No,62,Yes,No,DSL,No,Yes,Yes,Yes,No,No,Two year,Yes,Credit card (automatic),60,3753,No
+Kuheli 792-15967,Female,0,Yes,No,72,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),110,7983,No
+Kuheli 793-16944,Female,0,No,Yes,67,Yes,Yes,Fiber optic,No,Yes,No,Yes,Yes,Yes,One year,Yes,Bank transfer (automatic),107,7245,No
+Kuheli 794-19584,Female,1,Yes,No,48,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),71,3545,No
+Kuheli 795-15262,Female,0,Yes,Yes,56,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,No,Two year,No,Credit card (automatic),81,4620,No
+Kuheli 796-16499,Female,0,No,No,1,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,21,21,Yes
+Kuheli 797-15793,Female,0,Yes,Yes,24,Yes,Yes,DSL,Yes,No,Yes,No,Yes,Yes,Two year,No,Credit card (automatic),79,1847,No
+Kuheli 798-15460,Female,0,No,No,3,Yes,No,Fiber optic,No,No,No,Yes,No,Yes,Month-to-month,No,Electronic check,86,272,Yes
+Kuheli 799-19202,Male,0,No,No,31,Yes,Yes,Fiber optic,No,No,No,Yes,No,No,One year,No,Credit card (automatic),82,2549,No
+Kuheli 800-18573,Male,0,Yes,No,12,Yes,No,DSL,No,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,74,741,No
+Kuheli 801-18192,Male,0,Yes,Yes,36,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),25,931,No
+Kuheli 802-15400,Male,0,No,No,18,Yes,Yes,DSL,Yes,No,No,No,No,No,Month-to-month,No,Mailed check,56,970,No
+Kuheli 803-19624,Male,0,No,No,37,Yes,No,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),96,3647,No
+Kuheli 804-15173,Male,0,No,No,22,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,No,Electronic check,83,1799,No
+Kuheli 805-17923,Male,1,No,No,56,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,101,5594,No
+Kuheli 806-19292,Female,0,No,No,65,Yes,No,DSL,Yes,Yes,No,Yes,No,No,Two year,Yes,Mailed check,60,3740,No
+Kuheli 807-19320,Male,0,No,No,3,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,No,Mailed check,108,314,No
+Kuheli 808-17443,Female,0,No,No,8,Yes,No,DSL,Yes,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,60,488,No
+Kuheli 809-18599,Female,0,Yes,Yes,14,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Mailed check,20,295,No
+Kuheli 810-15121,Female,0,No,No,30,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,No,One year,No,Credit card (automatic),75,2309,No
+Kuheli 811-16609,Male,0,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,71,71,No
+Kuheli 812-18164,Male,1,No,No,1,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Electronic check,45,45,Yes
+Kuheli 813-15390,Male,0,No,No,55,Yes,Yes,DSL,No,No,Yes,No,Yes,Yes,Two year,Yes,Bank transfer (automatic),78,4323,No
+Kuheli 814-18646,Male,0,Yes,Yes,72,No,Maryville,DSL,Yes,No,Yes,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),61,4549,No
+Kuheli 815-19255,Female,0,Yes,Yes,61,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Mailed check,24,1552,No
+Kuheli 816-17856,Female,0,No,Yes,21,Yes,No,DSL,Yes,No,Yes,No,No,Yes,One year,No,Mailed check,65,1337,No
+Kuheli 817-16076,Male,1,Yes,No,67,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),95,6079,No
+Kuheli 818-18412,Female,0,Yes,Yes,68,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),109,7509,No
+Kuheli 819-18232,Female,0,Yes,Yes,27,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,Yes,Mailed check,21,583,No
+Kuheli 820-19851,Male,0,No,No,1,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,46,46,Yes
+Kuheli 821-17066,Male,1,Yes,No,55,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,114,6293,No
+Kuheli 822-18262,Female,0,No,No,1,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,20,20,Yes
+Kuheli 823-18968,Female,0,Yes,Yes,50,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),70,3558,No
+Kuheli 824-15534,Male,0,No,No,12,Yes,No,Fiber optic,Yes,No,Yes,No,No,No,Month-to-month,No,Bank transfer (automatic),82,859,Yes
+Kuheli 825-15104,Male,1,Yes,No,57,Yes,Yes,DSL,No,Yes,Yes,No,Yes,No,One year,Yes,Credit card (automatic),71,4140,No
+Kuheli 826-17656,Female,0,No,No,30,Yes,Yes,Fiber optic,Yes,No,No,Yes,Yes,Yes,Month-to-month,No,Bank transfer (automatic),106,3212,No
+Kuheli 827-19024,Female,0,Yes,Yes,59,Yes,No,DSL,No,Yes,No,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),76,4542,No
+Kuheli 828-15109,Male,0,Yes,Yes,47,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,One year,Yes,Bank transfer (automatic),113,5318,No
+Kuheli 829-16515,Female,0,No,No,18,Yes,No,Fiber optic,No,Yes,Yes,No,No,No,Month-to-month,No,Electronic check,78,1359,No
+Kuheli 830-19569,Female,0,Yes,No,68,Yes,Yes,DSL,Yes,No,No,Yes,No,No,One year,No,Bank transfer (automatic),58,3976,No
+Kuheli 831-19480,Female,1,Yes,No,27,Yes,No,Fiber optic,Yes,No,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),75,1929,Yes
+Kuheli 832-17336,Male,0,No,No,2,No,Maryville,DSL,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,49,90,Yes
+Kuheli 833-19054,Female,0,Yes,Yes,54,Yes,Yes,Fiber optic,Yes,Yes,No,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),104,5646,No
+Kuheli 834-19606,Female,1,No,No,2,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,44,89,No
+Kuheli 835-16137,Female,0,No,Yes,26,Yes,No,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,105,2715,No
+Kuheli 836-16047,Male,0,Yes,No,70,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,No,Two year,No,Mailed check,79,5537,No
+Kuheli 837-15629,Male,0,No,No,3,No,Maryville,DSL,No,No,No,No,No,No,Month-to-month,No,Electronic check,25,67,Yes
+Kuheli 838-15506,Male,0,Yes,Yes,54,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Bank transfer (automatic),24,1231,No
+Kuheli 839-15317,Male,1,No,No,9,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,84,790,Yes
+Kuheli 840-16619,Female,0,No,No,2,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,19,44,No
+Kuheli 841-18319,Male,1,No,Yes,7,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,46,344,No
+Kuheli 842-17960,Female,0,Yes,Yes,26,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,91,2362,Yes
+Kuheli 843-15127,Male,0,Yes,Yes,58,Yes,No,DSL,No,Yes,No,Yes,Yes,Yes,One year,Yes,Credit card (automatic),75,4301,No
+Kuheli 844-19424,Female,1,Yes,No,28,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,111,3204,No
+Kuheli 845-16948,Female,0,No,No,5,Yes,No,Fiber optic,No,No,No,Yes,No,Yes,Month-to-month,Yes,Credit card (automatic),85,426,Yes
+Kuheli 846-19691,Male,0,Yes,Yes,29,Yes,No,DSL,No,No,Yes,Yes,Yes,Yes,Two year,No,Mailed check,76,2054,No
+Kuheli 847-15835,Male,0,Yes,No,65,Yes,Yes,DSL,Yes,Yes,Yes,No,No,No,One year,No,Credit card (automatic),67,4310,No
+Kuheli 848-15021,Male,0,Yes,Yes,24,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,Yes,Credit card (automatic),21,470,No
+Kuheli 849-17918,Male,1,Yes,No,72,Yes,Yes,DSL,Yes,Yes,Yes,No,Yes,Yes,Two year,Yes,Credit card (automatic),84,5982,No
+Kuheli 850-16636,Female,0,No,No,1,Yes,No,DSL,Yes,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,55,55,Yes
+Kuheli 851-16063,Female,0,Yes,No,70,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),20,1328,No
+Kuheli 852-17598,Female,0,No,Yes,9,Yes,No,Fiber optic,Yes,No,Yes,Yes,No,Yes,Month-to-month,No,Bank transfer (automatic),93,870,No
+Kuheli 853-16969,Male,0,Yes,Yes,23,Yes,Yes,DSL,No,No,No,No,No,No,One year,Yes,Credit card (automatic),48,1067,Yes
+Kuheli 854-16889,Male,0,No,No,56,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Bank transfer (automatic),26,1444,No
+Kuheli 855-18705,Male,0,Yes,Yes,67,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),111,7531,No
+Kuheli 856-17591,Female,0,Yes,No,2,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,71,141,Yes
+Kuheli 857-15746,Female,0,No,No,19,Yes,Yes,DSL,No,No,Yes,No,No,No,Month-to-month,Yes,Mailed check,56,1034,No
+Kuheli 858-18411,Male,0,Yes,Yes,48,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Bank transfer (automatic),26,1245,No
+Kuheli 859-19338,Female,0,No,No,4,No,Maryville,DSL,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,24,96,Yes
+Kuheli 860-18846,Male,0,No,No,7,Yes,No,DSL,No,No,No,No,Yes,No,Month-to-month,No,Mailed check,55,370,No
+Kuheli 861-16270,Male,0,No,No,67,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,One year,Yes,Bank transfer (automatic),89,5903,No
+Kuheli 862-17714,Male,0,No,Yes,3,Yes,No,DSL,Yes,No,Yes,No,No,No,Month-to-month,No,Mailed check,56,158,No
+Kuheli 863-17546,Male,1,No,No,15,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),74,1134,Yes
+Kuheli 864-19620,Female,0,No,No,61,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Electronic check,90,5309,No
+Kuheli 865-16500,Male,0,No,No,43,Yes,No,Fiber optic,Yes,No,No,No,No,No,Month-to-month,Yes,Electronic check,75,3199,Yes
+Kuheli 866-18117,Male,0,No,No,26,No,Maryville,DSL,Yes,Yes,No,No,No,Yes,Month-to-month,Yes,Bank transfer (automatic),45,1157,No
+Kuheli 867-16812,Female,0,Yes,Yes,58,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),20,1161,No
+Kuheli 868-19157,Female,0,Yes,No,72,Yes,Yes,Fiber optic,Yes,No,Yes,No,Yes,Yes,Two year,Yes,Credit card (automatic),105,7590,No
+Kuheli 869-17190,Male,0,Yes,Yes,2,Yes,No,Fiber optic,Yes,No,No,No,Yes,Yes,Month-to-month,No,Electronic check,97,184,No
+Kuheli 870-19977,Male,0,Yes,No,12,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Bank transfer (automatic),20,202,No
+Kuheli 871-19067,Male,0,No,No,33,Yes,No,Fiber optic,No,Yes,No,Yes,No,No,Two year,No,Bank transfer (automatic),81,2651,No
+Kuheli 872-16994,Male,0,Yes,Yes,1,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,No,Mailed check,89,89,Yes
+Kuheli 873-17940,Male,0,No,No,72,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),87,6225,No
+Kuheli 874-19988,Male,0,Yes,Yes,13,Yes,No,DSL,Yes,No,No,No,No,No,Month-to-month,Yes,Mailed check,50,587,No
+Kuheli 875-17000,Male,0,No,No,2,Yes,No,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,75,145,No
+Kuheli 876-18059,Male,0,No,Yes,1,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Mailed check,21,21,No
+Kuheli 877-18909,Female,0,No,No,16,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),75,1129,No
+Kuheli 878-18339,Male,0,Yes,Yes,68,Yes,Yes,DSL,No,Yes,No,Yes,No,Yes,Two year,No,Credit card (automatic),71,4860,No
+Kuheli 879-16922,Female,0,No,No,6,Yes,No,DSL,Yes,Yes,No,No,No,No,Month-to-month,No,Electronic check,56,389,Yes
+Kuheli 880-18990,Male,0,Yes,Yes,32,Yes,Yes,Fiber optic,Yes,No,No,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),100,3205,Yes
+Kuheli 881-15037,Male,0,Yes,No,18,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),44,768,No
+Kuheli 882-18340,Male,0,Yes,Yes,50,Yes,Yes,Fiber optic,Yes,No,Yes,No,Yes,Yes,Month-to-month,No,Credit card (automatic),106,5342,Yes
+Kuheli 883-19300,Male,1,Yes,Yes,47,Yes,No,Fiber optic,No,Yes,No,No,Yes,No,One year,Yes,Bank transfer (automatic),85,4018,No
+Kuheli 884-18770,Female,0,Yes,No,49,Yes,Yes,Fiber optic,Yes,No,No,No,Yes,Yes,Month-to-month,Yes,Mailed check,101,4847,No
+Kuheli 885-19873,Male,0,No,No,33,Yes,No,Fiber optic,Yes,No,No,Yes,Yes,No,Two year,Yes,Electronic check,89,3028,No
+Kuheli 886-16674,Female,0,No,No,1,Yes,No,Fiber optic,No,No,Yes,No,No,No,Month-to-month,No,Electronic check,76,76,No
+Kuheli 887-18285,Male,0,Yes,No,52,Yes,Yes,DSL,No,Yes,No,Yes,No,No,Month-to-month,No,Bank transfer (automatic),61,3170,No
+Kuheli 888-15177,Male,0,Yes,No,56,No,Maryville,DSL,No,No,Yes,Yes,Yes,Yes,One year,Yes,Bank transfer (automatic),54,2960,No
+Kuheli 889-19643,Female,0,No,No,10,Yes,No,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Bank transfer (automatic),80,846,Yes
+Kuheli 890-19882,Female,0,No,No,36,No,Maryville,DSL,Yes,No,No,No,No,No,Two year,No,Bank transfer (automatic),31,1126,No
+Kuheli 891-16057,Male,0,Yes,Yes,7,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Bank transfer (automatic),20,175,No
+Kuheli 892-18973,Female,1,Yes,No,60,Yes,No,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),110,6668,No
+Kuheli 893-19670,Female,1,Yes,Yes,28,No,Maryville,DSL,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,36,974,No
+Kuheli 894-17024,Male,0,No,No,28,Yes,Yes,Fiber optic,Yes,Yes,No,No,No,Yes,Month-to-month,Yes,Credit card (automatic),95,2659,Yes
+Kuheli 895-15459,Male,0,Yes,Yes,67,Yes,Yes,DSL,Yes,No,Yes,No,Yes,Yes,Two year,Yes,Electronic check,80,5293,Yes
+Kuheli 896-15234,Male,0,No,No,2,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,45,99,Yes
+Kuheli 897-15987,Female,0,Yes,Yes,23,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Mailed check,20,452,No
+Kuheli 898-17556,Male,1,No,No,7,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,85,547,Yes
+Kuheli 899-16936,Male,1,Yes,No,24,No,Maryville,DSL,No,No,Yes,Yes,No,No,Month-to-month,No,Mailed check,34,828,No
+Kuheli 900-16135,Male,0,Yes,No,17,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,103,1743,No
+Kuheli 901-16387,Male,0,No,No,41,Yes,No,Fiber optic,No,Yes,No,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),100,4220,No
+Kuheli 902-19574,Female,0,No,No,10,No,Maryville,DSL,Yes,Yes,Yes,No,No,No,Month-to-month,No,Bank transfer (automatic),41,449,No
+Kuheli 903-19084,Male,0,Yes,Yes,72,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Bank transfer (automatic),25,1799,No
+Kuheli 904-17535,Male,0,Yes,No,8,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Bank transfer (automatic),86,659,No
+Kuheli 905-18363,Female,0,No,No,3,Yes,No,DSL,No,No,Yes,No,Yes,Yes,One year,Yes,Electronic check,70,220,No
+Kuheli 906-18488,Male,0,Yes,No,71,Yes,Yes,DSL,Yes,Yes,Yes,Yes,No,Yes,Two year,No,Credit card (automatic),80,5727,No
+Kuheli 907-17442,Male,0,Yes,No,45,Yes,Yes,Fiber optic,Yes,No,Yes,No,No,No,Month-to-month,Yes,Mailed check,85,3714,No
+Kuheli 908-19960,Male,0,No,No,34,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,106,3549,Yes
+Kuheli 909-18521,Male,0,Yes,Yes,61,Yes,Yes,Fiber optic,Yes,Yes,No,No,Yes,Yes,One year,Yes,Electronic check,106,6548,Yes
+Kuheli 910-19142,Male,0,No,No,72,Yes,Yes,DSL,Yes,Yes,No,Yes,Yes,Yes,Two year,No,Credit card (automatic),86,6310,No
+Kuheli 911-18284,Male,0,No,No,68,Yes,Yes,DSL,Yes,Yes,Yes,No,No,Yes,One year,No,Credit card (automatic),77,5233,No
+Kuheli 912-16665,Male,0,No,Yes,12,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Bank transfer (automatic),19,212,No
+Kuheli 913-17282,Female,0,Yes,No,19,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,45,840,No
+Kuheli 914-15965,Male,0,Yes,Yes,67,Yes,No,DSL,Yes,Yes,No,Yes,No,No,One year,No,Mailed check,60,3994,No
+Kuheli 915-18568,Female,0,No,No,23,Yes,Yes,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Credit card (automatic),25,615,No
+Kuheli 916-15270,Male,0,No,No,46,No,Maryville,DSL,Yes,No,Yes,Yes,No,No,Two year,No,Mailed check,38,1755,No
+Kuheli 917-19650,Female,0,No,No,23,No,Maryville,DSL,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,45,997,No
+Kuheli 918-15689,Female,0,No,No,22,No,Maryville,DSL,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,51,1073,No
+Kuheli 919-18606,Male,0,Yes,Yes,33,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Credit card (automatic),20,621,No
+Kuheli 920-19303,Female,0,Yes,No,1,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Mailed check,21,21,No
+Kuheli 921-15424,Female,1,Yes,No,72,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,One year,Yes,Credit card (automatic),106,7630,No
+Kuheli 922-19205,Female,0,No,Yes,34,Yes,No,DSL,Yes,No,Yes,Yes,Yes,No,Two year,No,Credit card (automatic),68,2339,No
+Kuheli 923-19743,Female,0,Yes,Yes,67,No,Maryville,DSL,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,60,4104,No
+Kuheli 924-19278,Male,0,Yes,Yes,2,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Mailed check,20,35,No
+Kuheli 925-18152,Male,0,No,No,19,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Mailed check,19,279,No
+Kuheli 926-18156,Male,0,No,No,45,Yes,No,DSL,Yes,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,76,3274,No
+Kuheli 927-15274,Female,0,Yes,Yes,50,Yes,Yes,DSL,Yes,Yes,Yes,Yes,No,Yes,One year,Yes,Bank transfer (automatic),80,4042,No
+Kuheli 928-15601,Female,0,Yes,No,72,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,No,Two year,Yes,Bank transfer (automatic),104,7557,No
+Kuheli 929-18988,Male,0,No,No,3,Yes,No,DSL,Yes,No,No,No,No,No,Month-to-month,Yes,Mailed check,50,161,No
+Kuheli 930-19676,Male,0,No,No,1,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,45,45,No
+Kuheli 931-19128,Female,0,Yes,No,72,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,Yes,No,Two year,Yes,Bank transfer (automatic),98,7016,No
+Kuheli 932-19036,Male,1,Yes,No,8,Yes,No,DSL,Yes,No,No,No,Yes,No,Month-to-month,No,Bank transfer (automatic),61,552,No
+Kuheli 933-19932,Male,0,Yes,No,47,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,One year,Yes,Electronic check,79,3650,No
+Kuheli 934-15430,Male,0,No,No,26,Yes,No,Fiber optic,No,Yes,Yes,Yes,No,No,One year,Yes,Electronic check,85,2185,No
+Kuheli 935-16395,Male,0,No,No,2,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,46,81,Yes
+Kuheli 936-19279,Male,1,Yes,No,68,Yes,Yes,Fiber optic,No,No,Yes,No,No,No,Month-to-month,Yes,Credit card (automatic),80,5589,No
+Kuheli 937-17348,Female,0,No,No,15,Yes,Yes,Fiber optic,Yes,No,Yes,No,No,No,Month-to-month,Yes,Credit card (automatic),84,1303,No
+Kuheli 938-15790,Male,0,Yes,No,69,No,Maryville,DSL,No,Yes,Yes,Yes,Yes,Yes,One year,Yes,Credit card (automatic),61,4263,No
+Kuheli 939-19081,Male,0,No,No,72,No,Maryville,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),66,4807,No
+Kuheli 940-18664,Female,1,No,No,1,No,Maryville,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,25,25,Yes
+Kuheli 941-15608,Male,0,Yes,Yes,22,Yes,No,DSL,Yes,Yes,No,Yes,No,No,Month-to-month,Yes,Mailed check,58,1272,No
+Kuheli 942-15515,Male,0,Yes,No,67,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),26,1785,No
+Kuheli 943-15140,Male,0,Yes,Yes,57,Yes,No,DSL,Yes,Yes,No,Yes,No,No,One year,No,Mailed check,60,3509,No
+Kuheli 944-18540,Male,0,No,No,1,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Electronic check,21,21,Yes
+Kuheli 945-15577,Male,0,Yes,No,34,Yes,Yes,Fiber optic,No,Yes,No,No,No,Yes,Month-to-month,No,Mailed check,89,3000,No
+Kuheli 946-15564,Female,0,Yes,No,16,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,No,No,Month-to-month,No,Electronic check,91,1375,No
+Kuheli 947-18879,Male,0,Yes,Yes,70,No,Maryville,DSL,Yes,No,Yes,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),60,4145,No
+Kuheli 948-19416,Female,1,No,No,4,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,No,Month-to-month,Yes,Electronic check,89,346,Yes
+Kuheli 949-15419,Male,0,No,No,31,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,81,2641,No
+Kuheli 950-17379,Female,1,No,No,33,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,110,3655,Yes
+Kuheli 951-18159,Female,0,No,No,4,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Credit card (automatic),25,117,No
+Kuheli 952-18374,Female,0,Yes,No,56,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,One year,Yes,Electronic check,98,5508,Yes
+Kuheli 953-15996,Male,0,Yes,Yes,72,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,No,Two year,Yes,Bank transfer (automatic),81,5727,No
+Kuheli 954-17984,Male,0,Yes,Yes,13,Yes,No,DSL,No,Yes,Yes,Yes,No,No,Month-to-month,No,Bank transfer (automatic),62,750,No
+Kuheli 955-15188,Female,1,No,No,15,Yes,Yes,Fiber optic,No,Yes,No,No,No,Yes,Month-to-month,No,Electronic check,90,1425,Yes
+Kuheli 956-15404,Female,0,Yes,Yes,21,Yes,No,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,103,2110,Yes
+Kuheli 957-18966,Female,1,No,No,8,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,92,730,Yes
+Kuheli 958-18457,Male,0,No,No,72,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Bank transfer (automatic),20,1434,No
+Kuheli 959-16014,Female,0,Yes,Yes,72,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Bank transfer (automatic),25,1858,No
+Kuheli 960-15567,Female,0,No,No,18,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70,1222,No
+Kuheli 961-19307,Male,0,Yes,Yes,31,Yes,Yes,DSL,Yes,Yes,No,Yes,No,Yes,One year,Yes,Bank transfer (automatic),75,2345,No
+Kuheli 962-18697,Female,0,Yes,Yes,66,Yes,No,DSL,Yes,Yes,No,Yes,No,No,Two year,Yes,Credit card (automatic),58,3811,No
+Kuheli 963-15256,Male,0,No,No,72,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Mailed check,21,1521,No
+Kuheli 964-16712,Male,1,No,No,35,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,95,3474,Yes
+Kuheli 965-18008,Female,1,No,No,16,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,85,1350,Yes
+Kuheli 966-18287,Female,0,Yes,No,71,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Credit card (automatic),24,1725,No
+Kuheli 967-16155,Male,1,Yes,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Mailed check,71,71,Yes
+Kuheli 968-17814,Female,1,No,No,2,Yes,Yes,Fiber optic,No,No,Yes,No,No,Yes,Month-to-month,Yes,Electronic check,89,179,Yes
+Kuheli 969-19864,Male,0,No,No,2,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Electronic check,44,81,Yes
+Kuheli 970-19190,Male,0,Yes,No,40,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,101,4113,Yes
+Kuheli 971-19823,Female,0,Yes,No,34,Yes,Yes,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Electronic check,25,780,No
+Kuheli 972-17235,Male,0,Yes,Yes,64,Yes,No,Fiber optic,Yes,Yes,No,No,No,No,Month-to-month,No,Electronic check,81,5135,No
+Kuheli 973-19144,Female,0,No,No,68,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),21,1425,No
+Kuheli 974-16850,Female,0,No,No,47,Yes,No,Fiber optic,Yes,No,No,No,No,No,Month-to-month,No,Credit card (automatic),75,3545,No
+Kuheli 975-16239,Male,0,No,No,7,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,No,Month-to-month,Yes,Credit card (automatic),89,632,Yes
+Kuheli 976-17117,Female,0,Yes,No,31,Yes,No,DSL,Yes,No,No,Yes,No,Yes,One year,Yes,Electronic check,64,1911,No
+Kuheli 977-17666,Female,0,Yes,No,47,Yes,No,DSL,Yes,No,Yes,No,Yes,No,One year,Yes,Credit card (automatic),66,3021,No
+Kuheli 978-15532,Male,0,No,No,4,Yes,No,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,80,324,Yes
+Kuheli 979-16205,Female,0,No,No,9,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,20,186,No
+Kuheli 980-17941,Female,0,Yes,No,22,Yes,Yes,DSL,Yes,No,No,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,79,1743,Yes
+Kuheli 981-16779,Female,0,Yes,Yes,24,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,25,572,No
+Kuheli 982-15956,Male,0,No,No,5,Yes,No,DSL,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,51,262,No
+Kuheli 983-16175,Male,0,Yes,No,72,Yes,Yes,DSL,Yes,Yes,Yes,Yes,No,Yes,Two year,No,Bank transfer (automatic),79,5763,No
+Kuheli 984-17426,Female,0,Yes,No,71,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Bank transfer (automatic),25,1753,No
+Kuheli 985-15764,Female,0,No,No,16,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Mailed check,19,327,No
+Kuheli 986-16039,Male,0,No,No,59,Yes,No,DSL,No,No,Yes,No,No,Yes,One year,Yes,Bank transfer (automatic),61,3646,No
+Kuheli 987-19661,Female,0,No,No,68,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,88,6148,No
+Kuheli 988-19512,Female,0,No,No,15,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,100,1415,No
+Kuheli 989-15611,Male,0,No,Yes,1,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Mailed check,20,20,No
+Kuheli 990-16927,Male,0,Yes,Yes,47,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Mailed check,91,4318,No
+Kuheli 991-19461,Female,0,Yes,Yes,33,Yes,No,DSL,Yes,Yes,Yes,No,No,No,One year,Yes,Mailed check,58,1955,No
+Kuheli 992-16470,Male,0,No,No,16,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Mailed check,20,342,Yes
+Kuheli 993-19419,Male,0,No,No,2,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Mailed check,20,39,No
+Kuheli 994-15207,Male,0,Yes,No,3,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Bank transfer (automatic),20,50,No
+Kuheli 995-19254,Female,0,No,No,5,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),44,202,No
+Kuheli 996-16942,Male,0,Yes,Yes,50,Yes,Yes,DSL,Yes,No,No,Yes,Yes,No,Two year,Yes,Credit card (automatic),71,3487,No
+Kuheli 997-17197,Female,0,Yes,Yes,62,Yes,Yes,Fiber optic,No,Yes,No,Yes,Yes,Yes,One year,Yes,Credit card (automatic),106,6704,No
+Kuheli 998-18044,Male,0,No,No,1,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,75,75,Yes
+Kuheli 999-15980,Female,0,Yes,Yes,7,Yes,No,DSL,Yes,Yes,Yes,No,Yes,No,One year,No,Electronic check,69,477,No
